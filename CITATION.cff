@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite the paper and this repository."
+title: "Identifiability of Molecular Orientation Mechanisms in Electrospun Polymer Fibers: code and results"
+type: software
+authors:
+  - family-names: Biber
+    given-names: Erkan
+    orcid: "https://orcid.org/0000-0003-4938-1046"
+    affiliation: "Institute of Biomedical Engineering, Boğaziçi University"
+repository-code: "https://github.com/erbiber/Identifiability"
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-08"
+keywords:
+  - electrospinning
+  - molecular orientation
+  - structural identifiability
+  - polymer relaxation
+  - vitrification

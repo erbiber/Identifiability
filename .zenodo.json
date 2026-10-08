@@ -1,0 +1,14 @@
+{
+  "title": "Identifiability of Molecular Orientation Mechanisms in Electrospun Polymer Fibers: code and results",
+  "description": "Code that computes every value quoted in the paper, the computed values as CSV files, and the figures.",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Biber, Erkan",
+      "affiliation": "Institute of Biomedical Engineering, Boğaziçi University",
+      "orcid": "0000-0003-4938-1046"
+    }
+  ],
+  "license": "MIT",
+  "keywords": ["electrospinning", "molecular orientation", "structural identifiability", "polymer relaxation", "vitrification"]
+}

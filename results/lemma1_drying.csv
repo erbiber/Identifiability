@@ -1,0 +1,7 @@
+case,max_rise_in_r,max_rise_in_t,t_f_order_violations,theta_r_order_violations,elements_rewetted
+uniform start,3.33067e-16,1.11022e-16,0,0,
+polymer-rich core 0.25,0.641093,0.00310742,0,0,
+solvent-rich annulus,0.0494854,0.000181609,0,0,
+evaporation on/off,,0.0143891,0,0,9
+oscillating evaporation,,0.000890391,0,0,0
+thinning jet,,1.56485e-13,0,0,0

@@ -1,0 +1,6 @@
+memory,before_rms_to_skin,before_max_position,after_rms_to_skin,after_max_position
+single mode 0.3,0.0252354,1,0.204213,0.548829
+two modes 0.03 & 3,0.0210527,1,0.496344,0.434448
+two modes 0.1 & 10,0.0695228,1,0.642524,0.329599
+stretched exp 0.5,0.0412491,1,0.350359,0.488462
+stretched exp 0.3,0.0629403,1,0.61672,0.383612

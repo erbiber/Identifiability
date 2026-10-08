@@ -1,0 +1,6 @@
+kernel,a_monotone_inward,a_max_position,b_max_position_skin_decoupled,c_max_position_skin_drawn
+single exponential,True,1,0.548829,1
+two modes,True,1,0.434448,1
+stretched exp 0.3,True,1,0.383612,
+linear ramp (not a mixture),True,1,0.53612,1
+plateau-drop (not a mixture),True,1,0.542475,

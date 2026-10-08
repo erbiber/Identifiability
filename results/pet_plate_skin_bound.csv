@@ -1,0 +1,7 @@
+skin_thickness_nm,diameter_nm,shell_volume_fraction,plate_statistic,plate_orientation_ceiling,max_skin_orientation,share_of_gap_median,share_of_disk_median
+13.1,550,0.0930035,every fiber (maximum 0.04),0.04,0.430091,0.222222,0.166667
+13.1,550,0.0930035,typical fiber (median 0.02),0.02,0.215046,0.111111,0.0833333
+30,550,0.206281,every fiber (maximum 0.04),0.04,0.19391,0.222222,0.166667
+30,550,0.206281,typical fiber (median 0.02),0.02,0.0969551,0.111111,0.0833333
+60,550,0.38876,every fiber (maximum 0.04),0.04,0.102891,0.222222,0.166667
+60,550,0.38876,typical fiber (median 0.02),0.02,0.0514456,0.111111,0.0833333
