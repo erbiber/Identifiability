@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this code or these results, please cite the paper and this repository."
-title: "Identifiability of Molecular Orientation Mechanisms in Electrospun Polymer Fibers: code and results"
+title: "Identifiability of Molecular Orientation Mechanisms in Electrospun Polymer Fibers and Its Practical Implications: code and results"
 type: software
 authors:
   - family-names: Biber
