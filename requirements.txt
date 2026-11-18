@@ -1,3 +1,6 @@
-numpy>=2.0
-scipy>=1.10
-matplotlib>=3.7
+# Tested with Python 3.13.18
+numpy==2.5.3
+scipy==1.18.1
+matplotlib==3.11.2
+openpyxl>=3.1      # only to read data/raw/pellerin_compilation_of_data.xlsx
+pytest>=8          # tests
