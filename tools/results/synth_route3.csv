@@ -1,0 +1,101 @@
+truth,true_shift,readout_offset,design,sessions,icc,fibers_per_solution,p_detect_shift
+flow history,0.05,0,separate,4,0,64,0.085
+flow history,0.05,0,separate,4,0,128,0.0975
+flow history,0.05,0,separate,4,0,256,0.1375
+flow history,0.05,0,separate,4,0,512,0.16
+flow history,0.05,0,separate,4,0,1024,0.37
+flow history,0.05,0,separate,4,0.1,64,0.0725
+flow history,0.05,0,separate,4,0.1,128,0.08
+flow history,0.05,0,separate,4,0.1,256,0.08
+flow history,0.05,0,separate,4,0.1,512,0.0625
+flow history,0.05,0,separate,4,0.1,1024,0.0525
+flow history,0.05,0,separate,16,0.1,64,0.055
+flow history,0.05,0,separate,16,0.1,128,0.0775
+flow history,0.05,0,separate,16,0.1,256,0.0625
+flow history,0.05,0,separate,16,0.1,512,0.0675
+flow history,0.05,0,separate,16,0.1,1024,0.0775
+flow history,0.05,0,blocked,8,0.1,64,0.055
+flow history,0.05,0,blocked,8,0.1,128,0.0625
+flow history,0.05,0,blocked,8,0.1,256,0.085
+flow history,0.05,0,blocked,8,0.1,512,0.1575
+flow history,0.05,0,blocked,8,0.1,1024,0.3075
+flow history,0.1,0,separate,4,0,64,0.14
+flow history,0.1,0,separate,4,0,128,0.1825
+flow history,0.1,0,separate,4,0,256,0.315
+flow history,0.1,0,separate,4,0,512,0.5475
+flow history,0.1,0,separate,4,0,1024,0.85
+flow history,0.1,0,separate,4,0.1,64,0.0825
+flow history,0.1,0,separate,4,0.1,128,0.09
+flow history,0.1,0,separate,4,0.1,256,0.0775
+flow history,0.1,0,separate,4,0.1,512,0.0875
+flow history,0.1,0,separate,4,0.1,1024,0.0875
+flow history,0.1,0,separate,16,0.1,64,0.06
+flow history,0.1,0,separate,16,0.1,128,0.1
+flow history,0.1,0,separate,16,0.1,256,0.1375
+flow history,0.1,0,separate,16,0.1,512,0.1675
+flow history,0.1,0,separate,16,0.1,1024,0.1825
+flow history,0.1,0,blocked,8,0.1,64,0.0925
+flow history,0.1,0,blocked,8,0.1,128,0.1475
+flow history,0.1,0,blocked,8,0.1,256,0.2975
+flow history,0.1,0,blocked,8,0.1,512,0.5075
+flow history,0.1,0,blocked,8,0.1,1024,0.815
+flow history,0.14,0,separate,4,0,64,0.18
+flow history,0.14,0,separate,4,0,128,0.2675
+flow history,0.14,0,separate,4,0,256,0.5675
+flow history,0.14,0,separate,4,0,512,0.795
+flow history,0.14,0,separate,4,0,1024,0.9825
+flow history,0.14,0,separate,4,0.1,64,0.1
+flow history,0.14,0,separate,4,0.1,128,0.1
+flow history,0.14,0,separate,4,0.1,256,0.1175
+flow history,0.14,0,separate,4,0.1,512,0.13
+flow history,0.14,0,separate,4,0.1,1024,0.1175
+flow history,0.14,0,separate,16,0.1,64,0.1125
+flow history,0.14,0,separate,16,0.1,128,0.18
+flow history,0.14,0,separate,16,0.1,256,0.215
+flow history,0.14,0,separate,16,0.1,512,0.2525
+flow history,0.14,0,separate,16,0.1,1024,0.31
+flow history,0.14,0,blocked,8,0.1,64,0.0825
+flow history,0.14,0,blocked,8,0.1,128,0.245
+flow history,0.14,0,blocked,8,0.1,256,0.4475
+flow history,0.14,0,blocked,8,0.1,512,0.7825
+flow history,0.14,0,blocked,8,0.1,1024,0.9675
+skin,0,0,separate,4,0,64,0.0775
+skin,0,0,separate,4,0,128,0.085
+skin,0,0,separate,4,0,256,0.085
+skin,0,0,separate,4,0,512,0.0825
+skin,0,0,separate,4,0,1024,0.07
+skin,0,0,separate,4,0.1,64,0.0975
+skin,0,0,separate,4,0.1,128,0.0775
+skin,0,0,separate,4,0.1,256,0.0725
+skin,0,0,separate,4,0.1,512,0.0625
+skin,0,0,separate,4,0.1,1024,0.0675
+skin,0,0,separate,16,0.1,64,0.0775
+skin,0,0,separate,16,0.1,128,0.0525
+skin,0,0,separate,16,0.1,256,0.04
+skin,0,0,separate,16,0.1,512,0.04
+skin,0,0,separate,16,0.1,1024,0.0475
+skin,0,0,blocked,8,0.1,64,0.0575
+skin,0,0,blocked,8,0.1,128,0.0625
+skin,0,0,blocked,8,0.1,256,0.06
+skin,0,0,blocked,8,0.1,512,0.055
+skin,0,0,blocked,8,0.1,1024,0.06
+skin,0,0.01,separate,4,0,64,0.11
+skin,0,0.01,separate,4,0,128,0.1225
+skin,0,0.01,separate,4,0,256,0.2025
+skin,0,0.01,separate,4,0,512,0.355
+skin,0,0.01,separate,4,0,1024,0.6425
+skin,0,0.01,separate,4,0.1,64,0.08
+skin,0,0.01,separate,4,0.1,128,0.0725
+skin,0,0.01,separate,4,0.1,256,0.085
+skin,0,0.01,separate,4,0.1,512,0.09
+skin,0,0.01,separate,4,0.1,1024,0.0975
+skin,0,0.01,separate,16,0.1,64,0.0575
+skin,0,0.01,separate,16,0.1,128,0.0725
+skin,0,0.01,separate,16,0.1,256,0.085
+skin,0,0.01,separate,16,0.1,512,0.115
+skin,0,0.01,separate,16,0.1,1024,0.095
+skin,0,0.01,blocked,8,0.1,64,0.065
+skin,0,0.01,blocked,8,0.1,128,0.1
+skin,0,0.01,blocked,8,0.1,256,0.1925
+skin,0,0.01,blocked,8,0.1,512,0.2825
+skin,0,0.01,blocked,8,0.1,1024,0.5075

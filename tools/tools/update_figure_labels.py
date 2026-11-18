@@ -1,7 +1,7 @@
-"""Update the text labels drawn by scripts/paper_figures.py for revision R23, then redraw the figures.
+"""Update the text labels drawn by scripts/paper_figures.py to the terminology of the article, then redraw the figures.
 Run from the repository root:  python tools/update_figure_labels.py [--write]
 Without --write it only reports what would change. Labels split over several lines or built from variables are
-not caught: check Figs. 4, 5 and 6 by eye after redrawing (see R23_UPDATE_NOTES.md)."""
+not caught: check Figs. 4, 5 and 6 by eye after redrawing (see UPDATE_NOTES.md)."""
 import re
 import sys
 

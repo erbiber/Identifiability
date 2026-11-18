@@ -30,6 +30,7 @@ bash reproduce.sh
 python scripts/run_results.py           # every result file except the simulation tests (about 3.5 h on one core)
 python scripts/paper_figures.py         # Figs. 1–6 and the Supplementary figures
 python scripts/synthetic_validation.py  # simulation tests of Section 5.4 / S10 and Fig. 7 (about 4 min)
+python scripts/toc_graphic.py           # graphical abstract
 python -m pytest -q tests               # analytic limits, headline values and simulation values
 ```
 
@@ -58,7 +59,7 @@ Section numbers refer to the article; S-numbers to the Supplementary material. P
 | Contribution of each input; global PS envelope | 4.1, 5.1.1; Table S7 | budget | flat_diameter_budget.csv, ps_window_global.csv |
 | Self-consistent uniform-arrest diameter and PS validity envelope | 4.1, 5.1.1, 5.1.4; Fig. 4b | flat | flat_diameter_consistent.csv, case_study_consistent.csv |
 | Arrest composition | 4.1; Fig. S3 | composition | arrest_composition.csv |
-| Post-arrest inertness (A3) | 4.2; Fig. S4 | a3 | a3_post_arrest.csv, a3_flat_dependence.csv, a3_post_arrest_checks.csv, a3_sensitivity.csv, a3_inertness.csv, diffusivity_vs_data.csv, chloroform_*.csv |
+| Post-arrest inertness (A3) | 4.2; Fig. S4 | a3 | a3_post_arrest.csv, a3_flat_dependence.csv, a3_post_arrest_checks.csv, a3_sensitivity.csv, a3_inertness.csv, diffusivity_vs_data.csv, chloroform_diffusivity.csv, chloroform_crank_park.csv, chloroform_wet_end_check.csv |
 | Numerical checks of Lemma 1 and A5 | 2.3; Fig. S2 | lemma1, a5 | lemma1_drying.csv, arrest_order.csv, a5_injectivity.csv, a5_conditioning.csv, a5_splitting.csv |
 | Bayes factors for a committed skin | 3.2; Fig. S6 | bayes | bayes_factors_*.csv |
 | Fading-memory mimicry and Propositions 3–4 | 3.3; Fig. 3; Table S3 | kernel, prop3 | kernel_*.csv, proposition3*.csv |
@@ -66,8 +67,8 @@ Section numbers refer to the article; S-numbers to the Supplementary material. P
 | Functional forms (Proposition 6) | 3.4; Fig. S7 | forms | functional_forms*.csv |
 | Route 3 coupling and sample sizes | 4.3; Fig. S8 | coupling | coupling_*.csv, route3_sample_sizes.csv, sample_sizes.csv |
 | PET channels, error model, plate control by diameter, diameter-adjusted offset | 5.2.1, 5.2.3; Fig. S10 | channels | pet_channels.csv, pet_channels_robustness.csv, pet_error_model.csv, pet_plate_check.csv, pet_offset_diameter.csv, pet_record_check.csv |
-| PS skin bound and two-channel analysis | 5.1.2, 5.1.3; Fig. 6a; Table S10 | records | ps_skin_bound.csv, ps_bound_collector_share.csv, ps_common_skin.csv, ps_kappa_needed.csv, ps_record_refit.csv, ps_two_channel*.csv |
-| Confocal readout weight of a thin skin | 5.1.2; Fig. 6a; Table S12 | raman, raman_check | raman_field_checks.csv, raman_weighting_kappa.csv, ps_optical_bound*.csv, raman_substrate.csv, raman_tilt.csv |
+| PS skin bound and two-channel analysis | 5.1.2, 5.1.3; Fig. 6a; Table S10 | records | ps_skin_bound.csv, ps_bound_collector_share.csv, ps_common_skin.csv, ps_kappa_needed.csv, ps_record_refit.csv, ps_two_channel.csv, ps_two_channel_discordant.csv |
+| Confocal readout weight of a thin skin | 5.1.2; Fig. 6a; Table S12 | raman, raman_check | raman_field_checks.csv, raman_weighting_kappa.csv, ps_optical_bound.csv, ps_optical_bound_substrate.csv, raman_substrate.csv, raman_tilt.csv |
 | Arrest front of the PS drying model | 5.1.2 | skinfront | ps_arrest_front.csv |
 | Sampling scenarios for the PS skin bound | 5.1.2 | psunc | ps_bound_uncertainty.csv |
 | PAN readout agreement, equivalence test, skin bound | 5.3.1; Fig. S11 | pan | pan_readout_agreement.csv, pan_equivalence.csv, pan_skin_bound.csv |
@@ -76,12 +77,12 @@ Section numbers refer to the article; S-numbers to the Supplementary material. P
 | Simulation tests of the protocol (V1–V3) | 5.4; Fig. 7; S10.1–S10.4 | `scripts/synthetic_validation.py` | synth_plate_control.csv, synth_route3.csv, synth_route4.csv |
 | Robustness to misspecification and Monte Carlo intervals (V4) | 5.4; S10.5 | `scripts/synthetic_validation.py` | synth_robustness.csv |
 
-File names beginning `flat_` keep the earlier name of the uniform-arrest diameter.
+File and part names beginning `flat` refer to the uniform-arrest diameter.
 
 ## Contents
 
 ```
-scripts/      model functions, run_results.py, paper_figures.py, synthetic_validation.py,
+scripts/      model functions, run_results.py, paper_figures.py, synthetic_validation.py, toc_graphic.py,
               raman_weighting.py, raman_fd.py, import_author_data.py, digitization scripts
 data/         supplied record values (CSV and the original workbook in data/raw/), digitized values in data/digitized/
 results/      computed values (CSV)
