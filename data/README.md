@@ -13,6 +13,8 @@ is the source of the per-fiber and bin values used in Section 5 of the article (
 | AWL 2022 FigS2, FigS3, Fig3 inset | Laramée, Lanthier & Pellerin, Appl. Spectrosc. 76 (2022) 51 | PET per-fiber orientation, diameter, trans fraction and crystallinity by collector | PET plate control and channels (Section 5.2) |
 | PK 2026 Fig3, Fig4 | Knapp, Laramée & Pellerin, Appl. Spectrosc. (2026) | PAN four-spectrum and calibrated orientation in air, water and oil; medians | PAN readout agreement (Section 5.3.1) |
 
+In the workbook, "drum" is the rotating disk and "foil" the static plate of the article, and "SM" the four-spectrum (standard methodology) readout.
+
 The CSV files in `data/` (`richard_lacroix_pellerin_2015_fig2a.csv`, `_fig5a.csv`,
 `laramee_lanthier_pellerin_2022_fig3b.csv`, `knapp_laramee_pellerin_2026_fig3.csv`, `_fig3_air.csv`, `_fig4.csv`) are
 imported from this workbook by `scripts/import_author_data.py`.
@@ -22,8 +24,8 @@ such in the article.
 
 ## Digitized values
 
-`digitized/` holds the values read from the published figures before the supplied values were available, with the
-scripts that produced them. Their agreement with the supplied values is reported in Section S8.3 (PS within 0.001 in
+`digitized/` holds values read independently from the published figures as a check, with the scripts that produced
+them. Their agreement with the supplied values is reported in Section S8.3 (PS within 0.001 in
 ⟨P2⟩), S8.7 (PET within 0.0003 and 0.004) and S8.8 (PAN within 0.007, one oil fiber missed).
 
 ## Licence

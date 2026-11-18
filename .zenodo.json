@@ -1,4 +1,4 @@
-{
+it{
   "title": "Observational limits on assigning molecular orientation mechanisms in electrospun polymer fibers: code, data and computed results",
   "description": "Code that computes every value quoted in the article and its Supplementary material, the computed results as CSV files, the figures, the per-fiber and bin values of the published polystyrene, poly(ethylene terephthalate) and polyacrylonitrile records (supplied by C. Pellerin, Université de Montréal, and shared with his agreement) together with values digitized independently from the same figures as a check, and the simulation tests of the measurement protocol.",
   "upload_type": "software",
