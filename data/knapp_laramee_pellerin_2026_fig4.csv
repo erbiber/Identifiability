@@ -1,0 +1,11 @@
+series,diameter_bin_nm,P2_median,col_25th,col_75th
+air calibrated,500,0.40436,0.20157,0.07472
+air calibrated,700,0.24492,0.08053,0.13157
+air calibrated,900,0.21835,0.04732,0.11137
+air calibrated,1100,0.24426,0.06494,0.03925
+air calibrated,1300,0.19004,0.02444,0.02444
+oil four-spectrum,500,0.36885,0,0
+oil four-spectrum,700,0.30835,0.06785,0.02994
+oil four-spectrum,900,0.20751,0.09421,0.13507
+oil four-spectrum,1100,0.15327,0.03094,0.03094
+oil four-spectrum,1300,0.20977,0,0
