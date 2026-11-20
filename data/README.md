@@ -30,8 +30,8 @@ entry, and several gap records are reordered or rounded, so row-wise alignment w
 `tests/test_import.py` re-reads every cited cell and checks it against the table, and checks that the analysis input
 `laramee_lanthier_pellerin_2022_fig3b.csv` holds exactly the same fibers.
 
-The disk speed of the PS record, 29.4 m/s, is a personal communication from C. Pellerin (October 2026) and is cited as
-such in the article.
+The disk speed of the PS record, 29.4 m/s, was supplied by C. Pellerin, as acknowledged
+in the article.
 
 ## Literature tables used by the diffusivity model
 

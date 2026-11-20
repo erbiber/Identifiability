@@ -1,14 +1,14 @@
-# Observational limits on assigning molecular orientation mechanisms in electrospun polymer fibers — code, data and results
+# Observational Limits on Assigning Molecular Orientation Mechanisms in Electrospun Polymer Fibers — code, data and results
 
 Code, data, computed values and figures for the article
 
-> Biber, E. *Observational limits on assigning molecular orientation mechanisms in electrospun polymer fibers*.
-> Submitted to *Polymer* (2026).
+> Biber, E. *Observational Limits on Assigning Molecular Orientation Mechanisms in Electrospun Polymer Fibers*.
+> Submitted to *Journal of Polymer Science* (2026).
 
-Archived release: Zenodo, https://doi.org/10.5281/zenodo.XXXXXXX (version 2.0.0, the submitted version of the
+Archived release: Zenodo, https://doi.org/10.5281/zenodo.XXXXXXX (version 2.1.0, the submitted version of the
 article). Development version: https://github.com/erbiber/Identifiability.
 
-Every number quoted in the article and its Supplementary material is computed by the scripts here and written to
+Every number quoted in the article and its Supporting Information is computed by the scripts here and written to
 `results/*.csv`, and `tests/test_claims.py` checks each quoted value against those files (`claims.csv`). The article
 is a theoretical and computational study with reanalysis of published data; no new experiments are reported. The
 published polystyrene, poly(ethylene terephthalate) and polyacrylonitrile records enter through the per-fiber and bin
@@ -51,11 +51,12 @@ Numbers are written to six significant figures; all random draws use fixed seeds
 - `tests/test_import.py` re-reads every workbook cell cited in `data/pet_per_fiber.csv` and checks the PET fibers by
   value and identifier, never by row position.
 
+Run all of them with `python -m pytest -q tests` from the repository root, or each one directly with `python tests/<name>.py`.
 The tests check consistency between the text and the code, not the correctness of the models.
 
 ## Where each result is computed
 
-Section numbers refer to the article; S-numbers to the Supplementary material. Parts refer to `scripts/run_results.py`.
+Section numbers refer to the article; S-numbers to the Supporting Information. Parts refer to `scripts/run_results.py`.
 
 | Result | Where reported | Part (module) | Output files (`results/`) |
 |---|---|---|---|
@@ -63,19 +64,22 @@ Section numbers refer to the article; S-numbers to the Supplementary material. P
 | A5: injectivity, conditioning, jet splitting | S3.3–S3.4 | a5, a5cond (october.py, conditioning.py) | a5_injectivity.csv, a5_conditioning.csv, a5_splitting.csv |
 | Bayes factors for a committed skin | 3.2; Fig. S6 | bayes (october.py) | bayes_factors_*.csv |
 | Fading-memory mimicry, Propositions 3–4 | 3.3; Fig. 3; S2 | kernel, prop3 (october.py) | kernel_*.csv, proposition3*.csv |
+| Proposition 4 when stretching ends before the axis arrests | 3.3; S2.3 | prop4_early_end (conditioning.py, separability.py) | proposition4_early_end.csv |
+| Biot-number scope of Eq. (9) | 4.1; S5.1 | biot (conditioning.py) | biot_scope.csv |
+| Joint collector and readout scenarios for the PS bound | 5.1.2; S8.3 | ps_joint (conditioning.py) | ps_joint_scenarios.csv |
 | Finite extensibility | S2.5; Fig. S1 | finite (finite.py) | finite_extensibility_*.csv |
 | Functional forms (Proposition S1) | S6.2; Fig. S7 | forms, forms_sampling | functional_forms*.csv |
 | Route 3 coupling and sample sizes | S7; Fig. S8 | coupling (october.py) | coupling_*.csv, route3_sample_sizes.csv, sample_sizes.csv |
 | Arrest composition | S4.1; Fig. S3 | composition | arrest_composition.csv |
-| PS–chloroform diffusivity, Eq. (9), Tables S4–S6 | 4.1; S5; Figs. 4a, S5 | flat (diffusivity.py) | flat_diameter.csv, diffusivity_sensitivity.csv, flat_diameter_joint_worst.csv, chloroform_*.csv, diffusivity_vs_data.csv, a3_inertness.csv |
-| Self-consistent uniform-arrest diameter, A3 limit, envelope, case study, budget | 4.1–4.2, 5.1.1; S4.3, S5.3, S8.5; Figs. 4b, S4 | drying (ps_drying.py) | flat_diameter_consistent.csv, a3_post_arrest.csv, a3_flat_dependence.csv, a3_window_estimate.csv, variant_effects.csv, flat_vs_eq9.csv, case_study_consistent.csv, ps_window_global.csv, flat_threshold_sensitivity.csv, flat_diameter_budget.csv |
+| PS–chloroform diffusivity, Eq. (9), Tables S4–S6 | 4.1; S5; Figs. S12a, S5 | flat (diffusivity.py) | flat_diameter.csv, diffusivity_sensitivity.csv, flat_diameter_joint_worst.csv, chloroform_*.csv, diffusivity_vs_data.csv, a3_inertness.csv |
+| Self-consistent uniform-arrest diameter, A3 limit, envelope, case study, budget | 4.1–4.2, 5.1.1; S4.3, S5.3, S8.5; Figs. S12b, S4 | drying (ps_drying.py) | flat_diameter_consistent.csv, a3_post_arrest.csv, a3_flat_dependence.csv, a3_window_estimate.csv, variant_effects.csv, flat_vs_eq9.csv, case_study_consistent.csv, ps_window_global.csv, flat_threshold_sensitivity.csv, flat_diameter_budget.csv |
 | Evaporation rate, relaxation law and grid checks | S4.3, S5.3 | drying_checks | a3_post_arrest_checks.csv, flat_diameter_budget_evaporation.csv |
-| Arrest front; trend steepening (Remark 2) | 5.1.2, 4.2; S8.3, S4.3 | skinfront, remark3 | ps_arrest_front.csv, a3_trend_steepening.csv |
-| PS skin bound and two-channel analysis | 5.1.2–5.1.3; S8.3; Fig. 6a; Tables S10–S11 | records, psunc (records.py) | ps_*.csv |
-| PET plate bound, plate control, channels | 5.2; S8.6–S8.7; Figs. 6b, S10 | pet, channels (records.py) | pet_*.csv |
+| Arrest front; trend steepening (Remark 1) | 5.1.2, 4.2; S8.3, S4.3 | skinfront, remark3 | ps_arrest_front.csv, a3_trend_steepening.csv |
+| PS skin bound and two-channel analysis | 5.1.2–5.1.3; S8.3; Fig. 5a; Tables S10–S11 | records, psunc (records.py) | ps_*.csv |
+| PET plate bound, plate control, channels | 5.2; S8.6–S8.7; Figs. 5b, S10 | pet, channels (records.py) | pet_*.csv |
 | PAN readout agreement and skin bound | 5.3.1; S8.8; Fig. S11 | pan (records.py) | pan_*.csv |
 | Confocal readout weight of a thin skin | 5.1.2; S8.4; Table S12 | raman, raman_check (raman_weighting.py, raman_fd.py) | raman_*.csv, ps_optical_bound*.csv |
-| Simulation tests of the protocol | 5.4; S10; Fig. 7 | scripts/synthetic_validation.py | synth_*.csv |
+| Simulation tests of the roadmap | 5.4; S10; Fig. S13 | scripts/synthetic_validation.py | synth_*.csv |
 
 File and part names beginning `flat` refer to the uniform-arrest diameter.
 

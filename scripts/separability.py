@@ -539,3 +539,49 @@ def proposition3b_bound_check(n=100):
                      bool(p[j] >= lower * (1 - 1e-06)), bool(p[-1] <= upper * (1 + 1e-06)), bool(lower > upper),
                      bool(r[np.nanargmax(p)] < 0.98)))
     return rows
+
+
+def proposition4_early_end_check(a_values=(0, 2, 8), lam_fracs=(0.3, 1.0, 3.0), r_stops=(0.95, 0.9), n=100):
+    """As proposition3b_clock_check, but stretching ends just after surface arrest, so the post-stretching
+    relaxation before axis arrest is long; returns position and relative excess of the maximum."""
+    from scipy.integrate import solve_ivp
+    r = np.linspace(0, 1, n)
+    dr = r[1] - r[0]
+    rf = 0.5 * (r[1:] + r[:-1])
+    D = lambda c: np.exp(9.2 * (np.clip(c, 0, 1) - 0.9))
+
+    def rhs(t, c):
+        cf = 0.5 * (c[1:] + c[:-1])
+        fl = -D(cf) * (c[1:] - c[:-1]) / dr
+        dc = np.zeros_like(c)
+        i = np.arange(1, n - 1)
+        dc[i] = -(rf[i] * fl[i] - rf[i - 1] * fl[i - 1]) / (r[i] * dr)
+        dc[0] = -4 * fl[0] / dr
+        dc[-1] = -(5.0 * c[-1] - rf[-1] * fl[-1]) / (dr / 2)
+        return dc
+    T = np.concatenate([[0.0], np.geomspace(1e-05, 400, 60000)])
+    C = solve_ivp(rhs, (0, 400), np.full(n, 0.9), method='BDF', t_eval=T, rtol=1e-07, atol=1e-10).y
+    tf = np.array([T[np.argmax(C[i] <= 0.2)] for i in range(n)])
+    assert np.all(np.diff(tf) <= 0) and tf.min() > 0
+
+    def profile(a, lam0, t_end):
+        M = np.zeros(n)
+        out = np.full(n, np.nan)
+        dt = np.diff(T)
+        for k in range(len(T) - 1):
+            live = T[k] < tf
+            lam = lam0 * np.exp(a * (0.9 - C[:, k]))
+            e = 1.0 if T[k] < t_end else 0.0
+            M = np.where(live, M * np.exp(-dt[k] / lam) + e * lam * (1 - np.exp(-dt[k] / lam)), M)
+            just = (T[k + 1] >= tf) & np.isnan(out)
+            out[just] = M[just]
+        return out
+    rows = []
+    for rs in r_stops:
+        t_end = float(np.interp(rs, r, tf))
+        for lf in lam_fracs:
+            for a in a_values:
+                p = profile(a, lf * t_end, t_end)
+                i = int(np.nanargmax(p))
+                rows.append((rs, lf, a, float(r[i]), float(p[i] / p[-1] - 1), float(tf[-1]), t_end, float(tf[0])))
+    return rows

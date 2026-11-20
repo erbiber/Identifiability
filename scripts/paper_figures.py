@@ -1,6 +1,6 @@
 """Draw Figs. 1-6 of the article and Figs. S1-S11 of the Supplementary material from the result files and the model
 functions. Run from the repository root after scripts/run_results.py:  python scripts/paper_figures.py [names]
-Fig. 7 is drawn by scripts/synthetic_validation.py."""
+Fig. 7 (Figure S13 of the Supporting Information) is drawn by scripts/synthetic_validation.py."""
 import csv
 import os
 import sys
@@ -266,7 +266,7 @@ def fig5():
     _arrow(ax, 36, 59.6, 36, 56.4)
     _box(ax, 36, 53.2, 56, 5.4, '1. Do A1–A3 hold for these fibers\n(readout, stability, arrest order)?', 'A', 6.8)
     _box(ax, 84, 53.2, 26, 7, 'Revalidate the readout (A2)\nand its stability (A3) first;\nif arrest is not radially\nordered (A1), Route 1', 'V', 5.8)
-    _box(ax, 84, 43.6, 26, 7.6, 'Below a uniform-arrest\ndiameter (where one exists),\na readout rise beyond LgΓΔΘ*\nexcludes a bounded-slope\nskin (Remark 1)', 'V', 5.6)
+    _box(ax, 84, 43.6, 26, 7.6, 'Below a uniform-arrest\ndiameter (where one exists),\na readout rise beyond LgΓΔΘ*\nexcludes a bounded-slope\nskin (Remark S2)', 'V', 5.6)
     _arrow(ax, 64.4, 43.6, 70.6, 43.6, 'also', ly=1.3)
     _arrow(ax, 64.4, 53.2, 70.6, 53.2, 'no', ly=1.3)
     _arrow(ax, 36, 50.3, 36, 46.6, 'yes', lx=2.4)
@@ -283,7 +283,7 @@ def fig5():
     _arrow(ax, 70, 21, 87, 12.6, 'halts extension', lx=5, ly=0.5)
     _box(ax, 13, 9.4, 22, 7, 'Flow-induced phase\nseparation: Route 2 in\nevery regime (Prop. 5)', 'V', 6)
     _box(ax, 37, 9.4, 21, 7, 'Route 4: radial position\nof the maximum (interior\nexcludes a smooth skin)', 'C', 6)
-    _box(ax, 63, 9.4, 21, 7, 'Route 2: an independent\nstructural channel (Remark 3);\nwithout one, cannot decide', 'C', 6)
+    _box(ax, 63, 9.4, 21, 7, 'Route 2: an independent\nstructural channel (Remark 2);\nwithout one, cannot decide', 'C', 6)
     _box(ax, 88, 9.4, 17, 7, 'stretching ends at\nsurface arrest:\nRoute 3', 'C', 6)
     save(fig, 'fig5_selecting_route')
 
@@ -598,7 +598,7 @@ def figS9():
         (110.5, 'A3 (Sec. 4.2): does the measured channel stay unchanged after local arrest?\npolystyrene–chloroform, '
                 '100 ms flight: yes below about %.2g–%.2g µm (network orientation,\ncentral inputs); %.1f–%.1f times '
                 'the uniform-arrest diameter' % (min(na), max(na), f(dep['ratio_min']), f(dep['ratio_max'])), 'A',
-         'Collected state is not the\narrested state; post-arrest\nrelaxation can itself steepen\na diameter trend (Remark 2)'),
+         'Collected state is not the\narrested state; post-arrest\nrelaxation can itself steepen\na diameter trend (Remark 1)'),
         (98, 'A2 (Sec. 2.2): is the readout one strictly monotone function of structure,\nunchanged across the radii and '
              'diameters compared?', 'A', 'Revalidate the readout first,\ne.g. index-matched immersion\nfor polarized '
                                          'Raman below\nabout 500 nm'),
@@ -607,7 +607,7 @@ def figS9():
              'dependence', 'L', 'Route 1: non-monotone\narrest breaks the equivalence\n(Corollary 4; no known\nrealization)'),
         (74, 'Is the fiber thicker than the uniform-arrest diameter (Sec. 4.1)?\npolystyrene–chloroform: about '
              '%.2f–%.1f µm for 10–200 ms flights (network)' % (min(allua), max(allua)), 'S',
-         'Below it, a skin that is one\nfunction of the post-arrest clock,\nslope ≤ Γ, adds at most 0.1Γ radial\ncontrast and a trend of at most\nΓΔΘ*, ΔΘ* the largest span (Remark 1)'),
+         'Below it, a skin that is one\nfunction of the post-arrest clock,\nslope ≤ Γ, adds at most 0.1Γ radial\ncontrast and a trend of at most\nΓΔΘ*, ΔΘ* the largest span (Remark S2)'),
     ]
     hgt = lambda q: 3.2 + 2.0 * q.count('\n')
     _arrow(ax, 34, 118.4, 34, 110.5 + hgt(gates[0][1]) / 2 + 0.4)
@@ -651,7 +651,7 @@ def figS9():
     _box(ax, 74.5, 26.6, 12, 5.2, '(c) maximum\nat the surface', 'V', 5.2)
     _box(ax, 90.5, 25.8, 15, 7.2, '(b) interior maximum,\nif new stretching outpaces\nloss of retained deformation;\nProposition 4 for a\n'
                                   'composition-dependent\nclock', 'V', 4.9)
-    ax.text(74.5, 21.2, 'Remark 3: Routes 3 and 4\nmay not discriminate;\nadd a second channel', fontsize=4.8,
+    ax.text(74.5, 21.2, 'Remark 2: Routes 3 and 4\nmay not discriminate;\nadd a second channel', fontsize=4.8,
             ha='center', va='center', color=ACC2)
     _arrow(ax, 90.5, 21.9, 90.5, 19.2)
     _box(ax, 84, 16, 26, 5.4, 'Corollary 3: the radial position of the\nmaximum is the robust discriminant →\nRoute 4, '
@@ -663,12 +663,12 @@ def figS9():
     ax.text(91.2, 35.4, 'ψ still varies where S\nsaturates: Route 2', fontsize=4.8, ha='center', va='center', color=ACC2)
     _box(ax, 24, 14.6, 44, 6.2, 'Proposition S1: when two monotone diameter profiles cross at an interior\ndiameter, fitted '
                                 'functional forms cannot decide under a monotone\nreadout of unknown form', 'P', 5.5)
-    _box(ax, 50, 5.4, 96, 9.2, 'Corollary 4 (Sec. 4.3; Table 2): exits from the equivalence.  Route 1, non-monotone '
+    _box(ax, 50, 5.4, 96, 9.2, 'Corollary 4 (Sec. 4.3; Table S21): exits from the equivalence.  Route 1, non-monotone '
          'radial arrest (no known realization).  Route 2, an independent\nstructural channel (all three accounts).  Route 3, a '
          'relaxation-time perturbation at matched conformation: coupling β ≈ 0.005–0.05 while stretching\ncontinues to '
          'arrest, 0.19–1.5 if the chains relax before arrest (Eqs. S6–S7).  Route 4, the radial position of the maximum '
          '(stretching after surface\narrest and a decoupled skin, shown independently).  Jet imaging selects between Routes 3 '
-         'and 4 (Sec. 4.4; Fig. 5).  Each route decides\nonly if the accounts make incompatible predictions for what it '
+         'and 4 (Sec. 4.4; Fig. 4).  Each route decides\nonly if the accounts make incompatible predictions for what it '
          'measures.', 'C', 5.1)
     for i, (k, lab) in enumerate((('A', 'assumption'), ('L', 'lemma'), ('P', 'proposition'), ('C', 'corollary'),
                                   ('V', 'outcome'))):

@@ -176,3 +176,41 @@ def part_biot():
     coef = np.log(0.9 / 0.2) / 2
     write('biot_scope.csv', ['mode', 'phi_eq', 'Tg_shift', 'biot_limit_2_over_Pi_phi_star', 'reference_biot_per_dTheta',
                              'reference_biot_at_threshold'], [r + (coef, 0.1 * coef) for r in rows])
+
+
+def part_prop4_early_end():
+    """Proposition 4 when stretching ends before the axis arrests (t-dagger = end of stretching < tf(0)), with long
+    relaxation afterwards: stretching ends when the arrest front reaches 0.95 or 0.9 of the radius, i.e. just after the
+    surface arrests, so inner elements relax for most of the drying time before they arrest. Reports where the maximum
+    lies, its excess over the surface value, and whether the sufficient condition of Proposition 4 holds
+    (constant stretching, single exponential: lam_wet (1 - exp(-t_dag/lam_wet)) > tf(R))."""
+    import separability as sep
+    rows = []
+    for rs, lf, a, pos, excess, tR, t_end, tf0 in sep.proposition4_early_end_check():
+        lam_wet = lf * t_end
+        cond = lam_wet * (1 - np.exp(-t_end / lam_wet)) > tR
+        rows.append((rs, lf, a, pos, excess, int(cond), t_end / tf0))
+    write('proposition4_early_end.csv', ['r_stop', 'lam0_over_t_end', 'clock_strength_a', 'max_position_r_over_R',
+                                         'max_excess_over_surface', 'prop4_condition_holds', 't_end_over_tf_axis'], rows)
+
+
+def part_ps_joint():
+    """Joint scenarios for the polystyrene skin bound (Section 5.1.2, S8.3): the disk adds a share c of each bin mean and
+    the readout misreports the mean by a factor (1 + b) (b > 0: over-reports, as for an estimator that assumes the most
+    probable distribution, Section S8.3; b < 0: under-reports). True skin-induced mean = P2 (1 - c) / (1 + b), core 0,
+    skin perfectly aligned; minimum thickness per bin (d/2)[1 - sqrt(1 - f)], and the single thickness that every bin
+    needs (largest per-bin minimum), over the bins 0.5-1.7 um. Volume-average weighting."""
+    import csv
+    import os
+    bins = []
+    with open(os.path.join(os.path.dirname(__file__), '..', 'results', 'ps_skin_bound.csv')) as f:
+        for r in csv.DictReader(f):
+            d = float(r['diameter_nm'])
+            if 500 <= d <= 1700:
+                bins.append((d, float(r['P2'])))
+    rows = []
+    for c in (0.0, 0.5, 0.7):
+        for b in (-0.2, 0.0, 0.2, 0.4):
+            mins = [(d / 2) * (1 - np.sqrt(1 - p * (1 - c) / (1 + b))) for d, p in bins]
+            rows.append((c, b, min(mins), max(mins)))
+    write('ps_joint_scenarios.csv', ['collector_share', 'readout_bias', 'per_bin_min_nm_low', 'single_thickness_min_nm'], rows)

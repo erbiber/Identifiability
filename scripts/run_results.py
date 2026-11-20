@@ -21,7 +21,7 @@ PARTS = {
     'lemma1': october.part_lemma1, 'a5': october.part_a5, 'a5cond': conditioning.part_a5cond,
     'bayes': october.part_bayes, 'kernel': october.part_kernel, 'prop3': october.part_prop3,
     'finite': finite.part_finite, 'forms': october.part_forms, 'forms_sampling': conditioning.part_forms_sampling,
-    'route4_excess': conditioning.part_route4_excess, 'p4_bias': conditioning.part_p4_bias, 'gas_side': conditioning.part_gas_side, 'biot': conditioning.part_biot,
+    'route4_excess': conditioning.part_route4_excess, 'p4_bias': conditioning.part_p4_bias, 'gas_side': conditioning.part_gas_side, 'biot': conditioning.part_biot, 'prop4_early_end': conditioning.part_prop4_early_end, 'ps_joint': conditioning.part_ps_joint,
     'coupling': october.part_coupling, 'composition': october.part_composition,
     # polystyrene-chloroform model, Sections 4.1-4.2, S4-S5, S8.5
     'flat': drying_parts.part_flat, 'drying': drying_parts.part_drying, 'drying_checks': drying_parts.part_drying_checks,

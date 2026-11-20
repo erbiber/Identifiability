@@ -9,8 +9,8 @@ authors:
     affiliation: "Institute of Biomedical Engineering, Boğaziçi University"
 repository-code: "https://github.com/erbiber/Identifiability"
 license: MIT
-version: "2.0.0"
-date-released: "2026-11-18"
+version: "2.1.0"
+date-released: "2026-11-20"
 keywords:
   - electrospinning
   - molecular orientation
@@ -20,11 +20,11 @@ keywords:
   - identifiability
 preferred-citation:
   type: article
-  title: "Observational limits on assigning molecular orientation mechanisms in electrospun polymer fibers"
+  title: "Observational Limits on Assigning Molecular Orientation Mechanisms in Electrospun Polymer Fibers"
   authors:
     - family-names: Biber
       given-names: Erkan
       orcid: "https://orcid.org/0000-0003-4938-1046"
-  journal: "Polymer"
+  journal: "Journal of Polymer Science"
   status: submitted
   year: 2026
