@@ -1,0 +1,10 @@
+quantity,value
+bins,15
+linear_intercept_percent,6.68006
+linear_slope_percent,232.005
+linear_R2,0.948758
+kendall_tau,0.828571
+kendall_p,9.95138e-07
+spearman_rho,0.935714
+pairs,105
+discordant_pairs,9

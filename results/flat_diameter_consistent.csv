@@ -1,0 +1,481 @@
+diffusivity_variant,flight_ms,mode,phi_eq,Tg_shift_K_per_vol_percent,phi_star_mode,flat_diameter_nm
+baseline,10,alpha,0.13,5,0.160714,52.9799
+baseline,10,alpha,0.13,6,0.155595,43.3801
+baseline,10,alpha,0.13,7,0.151939,37.0451
+baseline,10,alpha,0.17,5,0.200714,123.966
+baseline,10,alpha,0.17,6,0.195595,106.815
+baseline,10,alpha,0.17,7,0.191939,95.2974
+baseline,10,network,0.13,5,0.192866,122.948
+baseline,10,network,0.13,6,0.182388,95.3319
+baseline,10,network,0.13,7,0.174904,77.7216
+baseline,10,network,0.17,5,0.232866,220.256
+baseline,10,network,0.17,6,0.222388,183.775
+baseline,10,network,0.17,7,0.214904,158.745
+baseline,40,alpha,0.13,5,0.154973,87.6991
+baseline,40,alpha,0.13,6,0.150811,73.052
+baseline,40,alpha,0.13,7,0.147838,63.3596
+baseline,40,alpha,0.17,5,0.194973,217.83
+baseline,40,alpha,0.17,6,0.190811,190.683
+baseline,40,alpha,0.17,7,0.187838,171.24
+baseline,40,network,0.13,5,0.184126,201.73
+baseline,40,network,0.13,6,0.175105,158.213
+baseline,40,network,0.13,7,0.168661,129.821
+baseline,40,network,0.17,5,0.224126,385.151
+baseline,40,network,0.17,6,0.215105,322.464
+baseline,40,network,0.17,7,0.208661,279.446
+baseline,100,alpha,0.13,5,0.15144,122.604
+baseline,100,alpha,0.13,6,0.147867,103.585
+baseline,100,alpha,0.13,7,0.145315,90.3091
+baseline,100,alpha,0.17,5,0.19144,318.562
+baseline,100,alpha,0.17,6,0.187867,279.675
+baseline,100,alpha,0.17,7,0.185315,253.44
+baseline,100,network,0.13,5,0.178837,279.563
+baseline,100,network,0.13,6,0.170698,220.61
+baseline,100,network,0.13,7,0.164884,182.472
+baseline,100,network,0.17,5,0.218837,553.98
+baseline,100,network,0.17,6,0.210698,467.976
+baseline,100,network,0.17,7,0.204884,408.205
+baseline,200,alpha,0.13,5,0.148895,157.857
+baseline,200,alpha,0.13,6,0.145746,134.548
+baseline,200,alpha,0.13,7,0.143497,118.658
+baseline,200,alpha,0.17,5,0.188895,423.084
+baseline,200,alpha,0.17,6,0.185746,375.083
+baseline,200,alpha,0.17,7,0.183497,340.463
+baseline,200,network,0.13,5,0.175067,359.564
+baseline,200,network,0.13,6,0.167556,285.498
+baseline,200,network,0.13,7,0.162191,237.255
+baseline,200,network,0.17,5,0.215067,733.156
+baseline,200,network,0.17,6,0.207556,620.459
+baseline,200,network,0.17,7,0.202191,544.777
+whole curve x0.5,10,alpha,0.13,5,0.160714,37.4407
+whole curve x0.5,10,alpha,0.13,6,0.155595,30.675
+whole curve x0.5,10,alpha,0.13,7,0.151939,26.3001
+whole curve x0.5,10,alpha,0.17,5,0.200714,87.2779
+whole curve x0.5,10,alpha,0.17,6,0.195595,75.6931
+whole curve x0.5,10,alpha,0.17,7,0.191939,67.3731
+whole curve x0.5,10,network,0.13,5,0.192866,86.7392
+whole curve x0.5,10,network,0.13,6,0.182388,67.3915
+whole curve x0.5,10,network,0.13,7,0.174904,54.8098
+whole curve x0.5,10,network,0.17,5,0.232866,156.271
+whole curve x0.5,10,network,0.17,6,0.222388,129.935
+whole curve x0.5,10,network,0.17,7,0.214904,112
+whole curve x0.5,40,alpha,0.13,5,0.154973,62.0633
+whole curve x0.5,40,alpha,0.13,6,0.150811,51.8513
+whole curve x0.5,40,alpha,0.13,7,0.147838,44.7783
+whole curve x0.5,40,alpha,0.17,5,0.194973,154.272
+whole curve x0.5,40,alpha,0.17,6,0.190811,134.801
+whole curve x0.5,40,alpha,0.17,7,0.187838,121.102
+whole curve x0.5,40,network,0.13,5,0.184126,142.271
+whole curve x0.5,40,network,0.13,6,0.175105,111.509
+whole curve x0.5,40,network,0.13,7,0.168661,91.5698
+whole curve x0.5,40,network,0.17,5,0.224126,271.078
+whole curve x0.5,40,network,0.17,6,0.215105,227.605
+whole curve x0.5,40,network,0.17,7,0.208661,198.366
+whole curve x0.5,100,alpha,0.13,5,0.15144,86.6438
+whole curve x0.5,100,alpha,0.13,6,0.147867,73.0891
+whole curve x0.5,100,alpha,0.13,7,0.145315,63.9456
+whole curve x0.5,100,alpha,0.17,5,0.19144,224.265
+whole curve x0.5,100,alpha,0.17,6,0.187867,198.293
+whole curve x0.5,100,alpha,0.17,7,0.185315,178.425
+whole curve x0.5,100,network,0.13,5,0.178837,198.188
+whole curve x0.5,100,network,0.13,6,0.170698,156.371
+whole curve x0.5,100,network,0.13,7,0.164884,129.462
+whole curve x0.5,100,network,0.17,5,0.218837,393.242
+whole curve x0.5,100,network,0.17,6,0.210698,331.048
+whole curve x0.5,100,network,0.17,7,0.204884,288.194
+whole curve x0.5,200,alpha,0.13,5,0.148895,111.833
+whole curve x0.5,200,alpha,0.13,6,0.145746,95.4328
+whole curve x0.5,200,alpha,0.13,7,0.143497,83.7106
+whole curve x0.5,200,alpha,0.17,5,0.188895,298.716
+whole curve x0.5,200,alpha,0.17,6,0.185746,264.847
+whole curve x0.5,200,alpha,0.17,7,0.183497,240.585
+whole curve x0.5,200,network,0.13,5,0.175067,253.528
+whole curve x0.5,200,network,0.13,6,0.167556,201.261
+whole curve x0.5,200,network,0.13,7,0.162191,167.51
+whole curve x0.5,200,network,0.17,5,0.215067,518.303
+whole curve x0.5,200,network,0.17,6,0.207556,440.305
+whole curve x0.5,200,network,0.17,7,0.202191,384.083
+whole curve x2,10,alpha,0.13,5,0.160714,74.8804
+whole curve x2,10,alpha,0.13,6,0.155595,61.4725
+whole curve x2,10,alpha,0.13,7,0.151939,52.4959
+whole curve x2,10,alpha,0.17,5,0.200714,174.59
+whole curve x2,10,alpha,0.17,6,0.195595,151.456
+whole curve x2,10,alpha,0.17,7,0.191939,134.534
+whole curve x2,10,network,0.13,5,0.192866,173.442
+whole curve x2,10,network,0.13,6,0.182388,134.657
+whole curve x2,10,network,0.13,7,0.174904,109.642
+whole curve x2,10,network,0.17,5,0.232866,312.275
+whole curve x2,10,network,0.17,6,0.222388,259.632
+whole curve x2,10,network,0.17,7,0.214904,224.121
+whole curve x2,40,alpha,0.13,5,0.154973,124.208
+whole curve x2,40,alpha,0.13,6,0.150811,103.646
+whole curve x2,40,alpha,0.13,7,0.147838,89.4487
+whole curve x2,40,alpha,0.17,5,0.194973,309.34
+whole curve x2,40,alpha,0.17,6,0.190811,269.233
+whole curve x2,40,alpha,0.17,7,0.187838,242.69
+whole curve x2,40,network,0.13,5,0.184126,284.63
+whole curve x2,40,network,0.13,6,0.175105,223.048
+whole curve x2,40,network,0.13,7,0.168661,183.23
+whole curve x2,40,network,0.17,5,0.224126,542.175
+whole curve x2,40,network,0.17,6,0.215105,455.917
+whole curve x2,40,network,0.17,7,0.208661,396.543
+whole curve x2,100,alpha,0.13,5,0.15144,173.234
+whole curve x2,100,alpha,0.13,6,0.147867,146.121
+whole curve x2,100,alpha,0.13,7,0.145315,128.021
+whole curve x2,100,alpha,0.17,5,0.19144,448.961
+whole curve x2,100,alpha,0.17,6,0.187867,396.754
+whole curve x2,100,alpha,0.17,7,0.185315,357.72
+whole curve x2,100,network,0.13,5,0.178837,396.391
+whole curve x2,100,network,0.13,6,0.170698,312.912
+whole curve x2,100,network,0.13,7,0.164884,258.675
+whole curve x2,100,network,0.17,5,0.218837,785.2
+whole curve x2,100,network,0.17,6,0.210698,660.893
+whole curve x2,100,network,0.17,7,0.204884,577.67
+whole curve x2,200,alpha,0.13,5,0.148895,223.757
+whole curve x2,200,alpha,0.13,6,0.145746,190.24
+whole curve x2,200,alpha,0.13,7,0.143497,167.342
+whole curve x2,200,alpha,0.17,5,0.188895,597.558
+whole curve x2,200,alpha,0.17,6,0.185746,529.904
+whole curve x2,200,alpha,0.17,7,0.183497,480.336
+whole curve x2,200,network,0.13,5,0.175067,507.255
+whole curve x2,200,network,0.13,6,0.167556,402.643
+whole curve x2,200,network,0.13,7,0.162191,335.261
+whole curve x2,200,network,0.17,5,0.215067,1038.18
+whole curve x2,200,network,0.17,6,0.207556,880.64
+whole curve x2,200,network,0.17,7,0.202191,768.479
+glass composition 0.13,10,alpha,0.13,5,0.160714,52.9824
+glass composition 0.13,10,alpha,0.13,6,0.155595,43.3788
+glass composition 0.13,10,alpha,0.13,7,0.151939,37.0425
+glass composition 0.13,10,alpha,0.17,5,0.200714,123.958
+glass composition 0.13,10,alpha,0.17,6,0.195595,106.813
+glass composition 0.13,10,alpha,0.17,7,0.191939,95.2908
+glass composition 0.13,10,network,0.13,5,0.192866,122.939
+glass composition 0.13,10,network,0.13,6,0.182388,95.3365
+glass composition 0.13,10,network,0.13,7,0.174904,77.7331
+glass composition 0.13,10,network,0.17,5,0.232866,220.257
+glass composition 0.13,10,network,0.17,6,0.222388,183.786
+glass composition 0.13,10,network,0.17,7,0.214904,158.767
+glass composition 0.13,40,alpha,0.13,5,0.154973,87.7031
+glass composition 0.13,40,alpha,0.13,6,0.150811,73.0658
+glass composition 0.13,40,alpha,0.13,7,0.147838,63.3651
+glass composition 0.13,40,alpha,0.17,5,0.194973,217.871
+glass composition 0.13,40,alpha,0.17,6,0.190811,190.699
+glass composition 0.13,40,alpha,0.17,7,0.187838,171.215
+glass composition 0.13,40,network,0.13,5,0.184126,201.713
+glass composition 0.13,40,network,0.13,6,0.175105,158.189
+glass composition 0.13,40,network,0.13,7,0.168661,129.82
+glass composition 0.13,40,network,0.17,5,0.224126,385.094
+glass composition 0.13,40,network,0.17,6,0.215105,322.515
+glass composition 0.13,40,network,0.17,7,0.208661,279.424
+glass composition 0.13,100,alpha,0.13,5,0.15144,122.604
+glass composition 0.13,100,alpha,0.13,6,0.147867,103.617
+glass composition 0.13,100,alpha,0.13,7,0.145315,90.2605
+glass composition 0.13,100,alpha,0.17,5,0.19144,318.468
+glass composition 0.13,100,alpha,0.17,6,0.187867,279.658
+glass composition 0.13,100,alpha,0.17,7,0.185315,253.436
+glass composition 0.13,100,network,0.13,5,0.178837,279.534
+glass composition 0.13,100,network,0.13,6,0.170698,220.593
+glass composition 0.13,100,network,0.13,7,0.164884,182.452
+glass composition 0.13,100,network,0.17,5,0.218837,553.973
+glass composition 0.13,100,network,0.17,6,0.210698,467.975
+glass composition 0.13,100,network,0.17,7,0.204884,408.212
+glass composition 0.13,200,alpha,0.13,5,0.148895,157.852
+glass composition 0.13,200,alpha,0.13,6,0.145746,134.493
+glass composition 0.13,200,alpha,0.13,7,0.143497,118.517
+glass composition 0.13,200,alpha,0.17,5,0.188895,423.164
+glass composition 0.13,200,alpha,0.17,6,0.185746,375.083
+glass composition 0.13,200,alpha,0.17,7,0.183497,340.16
+glass composition 0.13,200,network,0.13,5,0.175067,359.513
+glass composition 0.13,200,network,0.13,6,0.167556,285.49
+glass composition 0.13,200,network,0.13,7,0.162191,237.28
+glass composition 0.13,200,network,0.17,5,0.215067,733.253
+glass composition 0.13,200,network,0.17,6,0.207556,620.467
+glass composition 0.13,200,network,0.17,7,0.202191,544.82
+glass composition 0.17,10,alpha,0.13,5,0.160714,56.0044
+glass composition 0.17,10,alpha,0.13,6,0.155595,48.8315
+glass composition 0.17,10,alpha,0.13,7,0.151939,43.8762
+glass composition 0.17,10,alpha,0.17,5,0.200714,123.994
+glass composition 0.17,10,alpha,0.17,6,0.195595,106.837
+glass composition 0.17,10,alpha,0.17,7,0.191939,95.3187
+glass composition 0.17,10,network,0.13,5,0.192866,122.973
+glass composition 0.17,10,network,0.13,6,0.182388,95.3242
+glass composition 0.17,10,network,0.13,7,0.174904,77.706
+glass composition 0.17,10,network,0.17,5,0.232866,220.261
+glass composition 0.17,10,network,0.17,6,0.222388,183.756
+glass composition 0.17,10,network,0.17,7,0.214904,158.723
+glass composition 0.17,40,alpha,0.13,5,0.154973,99.4846
+glass composition 0.17,40,alpha,0.13,6,0.150811,87.8231
+glass composition 0.17,40,alpha,0.13,7,0.147838,80.1234
+glass composition 0.17,40,alpha,0.17,5,0.194973,217.734
+glass composition 0.17,40,alpha,0.17,6,0.190811,190.705
+glass composition 0.17,40,alpha,0.17,7,0.187838,171.208
+glass composition 0.17,40,network,0.13,5,0.184126,201.776
+glass composition 0.17,40,network,0.13,6,0.175105,158.285
+glass composition 0.17,40,network,0.13,7,0.168661,130.328
+glass composition 0.17,40,network,0.17,5,0.224126,385.024
+glass composition 0.17,40,network,0.17,6,0.215105,322.353
+glass composition 0.17,40,network,0.17,7,0.208661,279.499
+glass composition 0.17,100,alpha,0.13,5,0.15144,145.588
+glass composition 0.17,100,alpha,0.13,6,0.147867,130.644
+glass composition 0.17,100,alpha,0.13,7,0.145315,118.936
+glass composition 0.17,100,alpha,0.17,5,0.19144,318.524
+glass composition 0.17,100,alpha,0.17,6,0.187867,279.684
+glass composition 0.17,100,alpha,0.17,7,0.185315,253.515
+glass composition 0.17,100,network,0.13,5,0.178837,279.589
+glass composition 0.17,100,network,0.13,6,0.170698,220.91
+glass composition 0.17,100,network,0.13,7,0.164884,186.565
+glass composition 0.17,100,network,0.17,5,0.218837,554.02
+glass composition 0.17,100,network,0.17,6,0.210698,468.003
+glass composition 0.17,100,network,0.17,7,0.204884,408.214
+glass composition 0.17,200,alpha,0.13,5,0.148895,195.402
+glass composition 0.17,200,alpha,0.13,6,0.145746,175.919
+glass composition 0.17,200,alpha,0.13,7,0.143497,161.043
+glass composition 0.17,200,alpha,0.17,5,0.188895,422.874
+glass composition 0.17,200,alpha,0.17,6,0.185746,374.982
+glass composition 0.17,200,alpha,0.17,7,0.183497,340.808
+glass composition 0.17,200,network,0.13,5,0.175067,359.722
+glass composition 0.17,200,network,0.13,6,0.167556,287.531
+glass composition 0.17,200,network,0.13,7,0.162191,247.055
+glass composition 0.17,200,network,0.17,5,0.215067,732.948
+glass composition 0.17,200,network,0.17,6,0.207556,620.476
+glass composition 0.17,200,network,0.17,7,0.202191,544.804
+glassy tail to 1e-18,10,alpha,0.13,5,0.160714,52.9768
+glassy tail to 1e-18,10,alpha,0.13,6,0.155595,43.4067
+glassy tail to 1e-18,10,alpha,0.13,7,0.151939,37.0576
+glassy tail to 1e-18,10,alpha,0.17,5,0.200714,123.906
+glassy tail to 1e-18,10,alpha,0.17,6,0.195595,106.791
+glassy tail to 1e-18,10,alpha,0.17,7,0.191939,95.2094
+glassy tail to 1e-18,10,network,0.13,5,0.192866,122.941
+glassy tail to 1e-18,10,network,0.13,6,0.182388,95.2755
+glassy tail to 1e-18,10,network,0.13,7,0.174904,77.6127
+glassy tail to 1e-18,10,network,0.17,5,0.232866,220.2
+glassy tail to 1e-18,10,network,0.17,6,0.222388,183.697
+glassy tail to 1e-18,10,network,0.17,7,0.214904,158.772
+glassy tail to 1e-18,40,alpha,0.13,5,0.154973,87.594
+glassy tail to 1e-18,40,alpha,0.13,6,0.150811,73.0482
+glassy tail to 1e-18,40,alpha,0.13,7,0.147838,63.3004
+glassy tail to 1e-18,40,alpha,0.17,5,0.194973,217.605
+glassy tail to 1e-18,40,alpha,0.17,6,0.190811,190.619
+glassy tail to 1e-18,40,alpha,0.17,7,0.187838,170.857
+glassy tail to 1e-18,40,network,0.13,5,0.184126,201.672
+glassy tail to 1e-18,40,network,0.13,6,0.175105,158.106
+glassy tail to 1e-18,40,network,0.13,7,0.168661,129.76
+glassy tail to 1e-18,40,network,0.17,5,0.224126,384.627
+glassy tail to 1e-18,40,network,0.17,6,0.215105,322.189
+glassy tail to 1e-18,40,network,0.17,7,0.208661,279.485
+glassy tail to 1e-18,100,alpha,0.13,5,0.15144,122.535
+glassy tail to 1e-18,100,alpha,0.13,6,0.147867,103.552
+glassy tail to 1e-18,100,alpha,0.13,7,0.145315,90.3967
+glassy tail to 1e-18,100,alpha,0.17,5,0.19144,318.255
+glassy tail to 1e-18,100,alpha,0.17,6,0.187867,279.079
+glassy tail to 1e-18,100,alpha,0.17,7,0.185315,253.287
+glassy tail to 1e-18,100,network,0.13,5,0.178837,279.447
+glassy tail to 1e-18,100,network,0.13,6,0.170698,220.672
+glassy tail to 1e-18,100,network,0.13,7,0.164884,182.433
+glassy tail to 1e-18,100,network,0.17,5,0.218837,553.925
+glassy tail to 1e-18,100,network,0.17,6,0.210698,467.934
+glassy tail to 1e-18,100,network,0.17,7,0.204884,408.084
+glassy tail to 1e-18,200,alpha,0.13,5,0.148895,157.752
+glassy tail to 1e-18,200,alpha,0.13,6,0.145746,134.394
+glassy tail to 1e-18,200,alpha,0.13,7,0.143497,118.682
+glassy tail to 1e-18,200,alpha,0.17,5,0.188895,422.397
+glassy tail to 1e-18,200,alpha,0.17,6,0.185746,374.51
+glassy tail to 1e-18,200,alpha,0.17,7,0.183497,340.808
+glassy tail to 1e-18,200,network,0.13,5,0.175067,359.306
+glassy tail to 1e-18,200,network,0.13,6,0.167556,285.393
+glassy tail to 1e-18,200,network,0.13,7,0.162191,237.234
+glassy tail to 1e-18,200,network,0.17,5,0.215067,732.727
+glassy tail to 1e-18,200,network,0.17,6,0.207556,620.592
+glassy tail to 1e-18,200,network,0.17,7,0.202191,544.606
+viscosity-estimated parameters,10,alpha,0.13,5,0.160714,122.761
+viscosity-estimated parameters,10,alpha,0.13,6,0.155595,103.823
+viscosity-estimated parameters,10,alpha,0.13,7,0.151939,90.8697
+viscosity-estimated parameters,10,alpha,0.17,5,0.200714,234.762
+viscosity-estimated parameters,10,alpha,0.17,6,0.195595,206.89
+viscosity-estimated parameters,10,alpha,0.17,7,0.191939,187.84
+viscosity-estimated parameters,10,network,0.13,5,0.192866,240.463
+viscosity-estimated parameters,10,network,0.13,6,0.182388,195.825
+viscosity-estimated parameters,10,network,0.13,7,0.174904,165.224
+viscosity-estimated parameters,10,network,0.17,5,0.232866,374.615
+viscosity-estimated parameters,10,network,0.17,6,0.222388,321.491
+viscosity-estimated parameters,10,network,0.17,7,0.214904,284.814
+viscosity-estimated parameters,40,alpha,0.13,5,0.154973,210.79
+viscosity-estimated parameters,40,alpha,0.13,6,0.150811,180.57
+viscosity-estimated parameters,40,alpha,0.13,7,0.147838,160.472
+viscosity-estimated parameters,40,alpha,0.17,5,0.194973,422.65
+viscosity-estimated parameters,40,alpha,0.17,6,0.190811,377.943
+viscosity-estimated parameters,40,alpha,0.17,7,0.187838,343.486
+viscosity-estimated parameters,40,network,0.13,5,0.184126,409.409
+viscosity-estimated parameters,40,network,0.13,6,0.175105,335.598
+viscosity-estimated parameters,40,network,0.13,7,0.168661,285.916
+viscosity-estimated parameters,40,network,0.17,5,0.224126,667.292
+viscosity-estimated parameters,40,network,0.17,6,0.215105,578.457
+viscosity-estimated parameters,40,network,0.17,7,0.208661,514.143
+viscosity-estimated parameters,100,alpha,0.13,5,0.15144,302.18
+viscosity-estimated parameters,100,alpha,0.13,6,0.147867,261.495
+viscosity-estimated parameters,100,alpha,0.13,7,0.145315,233.107
+viscosity-estimated parameters,100,alpha,0.17,5,0.19144,626.66
+viscosity-estimated parameters,100,alpha,0.17,6,0.187867,560.848
+viscosity-estimated parameters,100,alpha,0.17,7,0.185315,514.127
+viscosity-estimated parameters,100,network,0.13,5,0.178837,583.915
+viscosity-estimated parameters,100,network,0.13,6,0.170698,482.805
+viscosity-estimated parameters,100,network,0.13,7,0.164884,412.482
+viscosity-estimated parameters,100,network,0.17,5,0.218837,983.667
+viscosity-estimated parameters,100,network,0.17,6,0.210698,851.977
+viscosity-estimated parameters,100,network,0.17,7,0.204884,764.203
+viscosity-estimated parameters,200,alpha,0.13,5,0.148895,395.519
+viscosity-estimated parameters,200,alpha,0.13,6,0.145746,346.151
+viscosity-estimated parameters,200,alpha,0.13,7,0.143497,310.287
+viscosity-estimated parameters,200,alpha,0.17,5,0.188895,843.859
+viscosity-estimated parameters,200,alpha,0.17,6,0.185746,757.584
+viscosity-estimated parameters,200,alpha,0.17,7,0.183497,698.532
+viscosity-estimated parameters,200,network,0.13,5,0.175067,762.902
+viscosity-estimated parameters,200,network,0.13,6,0.167556,631.914
+viscosity-estimated parameters,200,network,0.13,7,0.162191,544.601
+viscosity-estimated parameters,200,network,0.17,5,0.215067,1317.48
+viscosity-estimated parameters,200,network,0.17,6,0.207556,1145.91
+viscosity-estimated parameters,200,network,0.17,7,0.202191,1026.07
+jump-volume ratio fitted,10,alpha,0.13,5,0.160714,19.4652
+jump-volume ratio fitted,10,alpha,0.13,6,0.155595,18.1649
+jump-volume ratio fitted,10,alpha,0.13,7,0.151939,17.5086
+jump-volume ratio fitted,10,alpha,0.17,5,0.200714,53.6402
+jump-volume ratio fitted,10,alpha,0.17,6,0.195595,45.0543
+jump-volume ratio fitted,10,alpha,0.17,7,0.191939,39.3762
+jump-volume ratio fitted,10,network,0.13,5,0.192866,51.2362
+jump-volume ratio fitted,10,network,0.13,6,0.182388,37.2357
+jump-volume ratio fitted,10,network,0.13,7,0.174904,28.822
+jump-volume ratio fitted,10,network,0.17,5,0.232866,110.768
+jump-volume ratio fitted,10,network,0.17,6,0.222388,88.3549
+jump-volume ratio fitted,10,network,0.17,7,0.214904,73.7502
+jump-volume ratio fitted,40,alpha,0.13,5,0.154973,37.3075
+jump-volume ratio fitted,40,alpha,0.13,6,0.150811,35.677
+jump-volume ratio fitted,40,alpha,0.13,7,0.147838,34.4357
+jump-volume ratio fitted,40,alpha,0.17,5,0.194973,91.6157
+jump-volume ratio fitted,40,alpha,0.17,6,0.190811,78.2758
+jump-volume ratio fitted,40,alpha,0.17,7,0.187838,69.0082
+jump-volume ratio fitted,40,network,0.13,5,0.184126,79.7315
+jump-volume ratio fitted,40,network,0.13,6,0.175105,58.7466
+jump-volume ratio fitted,40,network,0.13,7,0.168661,46.1778
+jump-volume ratio fitted,40,network,0.17,5,0.224126,186.173
+jump-volume ratio fitted,40,network,0.17,6,0.215105,150.114
+jump-volume ratio fitted,40,network,0.17,7,0.208661,126.782
+jump-volume ratio fitted,100,alpha,0.13,5,0.15144,58.2724
+jump-volume ratio fitted,100,alpha,0.13,6,0.147867,55.8102
+jump-volume ratio fitted,100,alpha,0.13,7,0.145315,53.8982
+jump-volume ratio fitted,100,alpha,0.17,5,0.19144,131.198
+jump-volume ratio fitted,100,alpha,0.17,6,0.187867,112.784
+jump-volume ratio fitted,100,alpha,0.17,7,0.185315,100.458
+jump-volume ratio fitted,100,network,0.13,5,0.178837,106.978
+jump-volume ratio fitted,100,network,0.13,6,0.170698,79.8148
+jump-volume ratio fitted,100,network,0.13,7,0.164884,64.219
+jump-volume ratio fitted,100,network,0.17,5,0.218837,262.93
+jump-volume ratio fitted,100,network,0.17,6,0.210698,213.415
+jump-volume ratio fitted,100,network,0.17,7,0.204884,180.818
+jump-volume ratio fitted,200,alpha,0.13,5,0.148895,81.7924
+jump-volume ratio fitted,200,alpha,0.13,6,0.145746,78.3004
+jump-volume ratio fitted,200,alpha,0.13,7,0.143497,75.5375
+jump-volume ratio fitted,200,alpha,0.17,5,0.188895,171.587
+jump-volume ratio fitted,200,alpha,0.17,6,0.185746,149.386
+jump-volume ratio fitted,200,alpha,0.17,7,0.183497,133.257
+jump-volume ratio fitted,200,network,0.13,5,0.175067,133.589
+jump-volume ratio fitted,200,network,0.13,6,0.167556,100.882
+jump-volume ratio fitted,200,network,0.13,7,0.162191,84.9969
+jump-volume ratio fitted,200,network,0.17,5,0.215067,341.912
+jump-volume ratio fitted,200,network,0.17,6,0.207556,279.706
+jump-volume ratio fitted,200,network,0.17,7,0.202191,237.81
+self-diffusion (no thermodynamic factor),10,alpha,0.13,5,0.160714,64.3588
+self-diffusion (no thermodynamic factor),10,alpha,0.13,6,0.155595,52.4101
+self-diffusion (no thermodynamic factor),10,alpha,0.13,7,0.151939,44.4334
+self-diffusion (no thermodynamic factor),10,alpha,0.17,5,0.200714,158.457
+self-diffusion (no thermodynamic factor),10,alpha,0.17,6,0.195595,135.86
+self-diffusion (no thermodynamic factor),10,alpha,0.17,7,0.191939,120.639
+self-diffusion (no thermodynamic factor),10,network,0.13,5,0.192866,155.854
+self-diffusion (no thermodynamic factor),10,network,0.13,6,0.182388,119.078
+self-diffusion (no thermodynamic factor),10,network,0.13,7,0.174904,95.9683
+self-diffusion (no thermodynamic factor),10,network,0.17,5,0.232866,296.114
+self-diffusion (no thermodynamic factor),10,network,0.17,6,0.222388,243.18
+self-diffusion (no thermodynamic factor),10,network,0.17,7,0.214904,206.955
+self-diffusion (no thermodynamic factor),40,alpha,0.13,5,0.154973,105.664
+self-diffusion (no thermodynamic factor),40,alpha,0.13,6,0.150811,87.5657
+self-diffusion (no thermodynamic factor),40,alpha,0.13,7,0.147838,75.4228
+self-diffusion (no thermodynamic factor),40,alpha,0.17,5,0.194973,276.358
+self-diffusion (no thermodynamic factor),40,alpha,0.17,6,0.190811,240.95
+self-diffusion (no thermodynamic factor),40,alpha,0.17,7,0.187838,215.501
+self-diffusion (no thermodynamic factor),40,network,0.13,5,0.184126,252.599
+self-diffusion (no thermodynamic factor),40,network,0.13,6,0.175105,195.53
+self-diffusion (no thermodynamic factor),40,network,0.13,7,0.168661,159.332
+self-diffusion (no thermodynamic factor),40,network,0.17,5,0.224126,508.369
+self-diffusion (no thermodynamic factor),40,network,0.17,6,0.215105,420.667
+self-diffusion (no thermodynamic factor),40,network,0.17,7,0.208661,361.985
+self-diffusion (no thermodynamic factor),100,alpha,0.13,5,0.15144,146.789
+self-diffusion (no thermodynamic factor),100,alpha,0.13,6,0.147867,123.351
+self-diffusion (no thermodynamic factor),100,alpha,0.13,7,0.145315,107.642
+self-diffusion (no thermodynamic factor),100,alpha,0.17,5,0.19144,401.981
+self-diffusion (no thermodynamic factor),100,alpha,0.17,6,0.187867,351.985
+self-diffusion (no thermodynamic factor),100,alpha,0.17,7,0.185315,318.259
+self-diffusion (no thermodynamic factor),100,network,0.13,5,0.178837,347.465
+self-diffusion (no thermodynamic factor),100,network,0.13,6,0.170698,271.296
+self-diffusion (no thermodynamic factor),100,network,0.13,7,0.164884,222.704
+self-diffusion (no thermodynamic factor),100,network,0.17,5,0.218837,728.691
+self-diffusion (no thermodynamic factor),100,network,0.17,6,0.210698,609.084
+self-diffusion (no thermodynamic factor),100,network,0.17,7,0.204884,525.425
+self-diffusion (no thermodynamic factor),200,alpha,0.13,5,0.148895,188.78
+self-diffusion (no thermodynamic factor),200,alpha,0.13,6,0.145746,159.844
+self-diffusion (no thermodynamic factor),200,alpha,0.13,7,0.143497,140.637
+self-diffusion (no thermodynamic factor),200,alpha,0.17,5,0.188895,532.844
+self-diffusion (no thermodynamic factor),200,alpha,0.17,6,0.185746,469.433
+self-diffusion (no thermodynamic factor),200,alpha,0.17,7,0.183497,425.03
+self-diffusion (no thermodynamic factor),200,network,0.13,5,0.175067,444.792
+self-diffusion (no thermodynamic factor),200,network,0.13,6,0.167556,349.412
+self-diffusion (no thermodynamic factor),200,network,0.13,7,0.162191,288.584
+self-diffusion (no thermodynamic factor),200,network,0.17,5,0.215067,957.039
+self-diffusion (no thermodynamic factor),200,network,0.17,6,0.207556,802.607
+self-diffusion (no thermodynamic factor),200,network,0.17,7,0.202191,699.62
+thermodynamic factor held above 0.3,10,alpha,0.13,5,0.160714,52.9822
+thermodynamic factor held above 0.3,10,alpha,0.13,6,0.155595,43.3802
+thermodynamic factor held above 0.3,10,alpha,0.13,7,0.151939,37.0432
+thermodynamic factor held above 0.3,10,alpha,0.17,5,0.200714,123.95
+thermodynamic factor held above 0.3,10,alpha,0.17,6,0.195595,106.805
+thermodynamic factor held above 0.3,10,alpha,0.17,7,0.191939,95.2869
+thermodynamic factor held above 0.3,10,network,0.13,5,0.192866,122.926
+thermodynamic factor held above 0.3,10,network,0.13,6,0.182388,95.3425
+thermodynamic factor held above 0.3,10,network,0.13,7,0.174904,77.7348
+thermodynamic factor held above 0.3,10,network,0.17,5,0.232866,220.339
+thermodynamic factor held above 0.3,10,network,0.17,6,0.222388,183.915
+thermodynamic factor held above 0.3,10,network,0.17,7,0.214904,158.866
+thermodynamic factor held above 0.3,40,alpha,0.13,5,0.154973,87.7016
+thermodynamic factor held above 0.3,40,alpha,0.13,6,0.150811,73.052
+thermodynamic factor held above 0.3,40,alpha,0.13,7,0.147838,63.3511
+thermodynamic factor held above 0.3,40,alpha,0.17,5,0.194973,217.938
+thermodynamic factor held above 0.3,40,alpha,0.17,6,0.190811,190.694
+thermodynamic factor held above 0.3,40,alpha,0.17,7,0.187838,171.202
+thermodynamic factor held above 0.3,40,network,0.13,5,0.184126,201.701
+thermodynamic factor held above 0.3,40,network,0.13,6,0.175105,158.185
+thermodynamic factor held above 0.3,40,network,0.13,7,0.168661,129.821
+thermodynamic factor held above 0.3,40,network,0.17,5,0.224126,384.778
+thermodynamic factor held above 0.3,40,network,0.17,6,0.215105,322.406
+thermodynamic factor held above 0.3,40,network,0.17,7,0.208661,279.359
+thermodynamic factor held above 0.3,100,alpha,0.13,5,0.15144,122.607
+thermodynamic factor held above 0.3,100,alpha,0.13,6,0.147867,103.618
+thermodynamic factor held above 0.3,100,alpha,0.13,7,0.145315,90.2605
+thermodynamic factor held above 0.3,100,alpha,0.17,5,0.19144,318.44
+thermodynamic factor held above 0.3,100,alpha,0.17,6,0.187867,279.633
+thermodynamic factor held above 0.3,100,alpha,0.17,7,0.185315,253.499
+thermodynamic factor held above 0.3,100,network,0.13,5,0.178837,279.521
+thermodynamic factor held above 0.3,100,network,0.13,6,0.170698,220.597
+thermodynamic factor held above 0.3,100,network,0.13,7,0.164884,182.458
+thermodynamic factor held above 0.3,100,network,0.17,5,0.218837,553.999
+thermodynamic factor held above 0.3,100,network,0.17,6,0.210698,468.05
+thermodynamic factor held above 0.3,100,network,0.17,7,0.204884,408.244
+thermodynamic factor held above 0.3,200,alpha,0.13,5,0.148895,157.811
+thermodynamic factor held above 0.3,200,alpha,0.13,6,0.145746,134.548
+thermodynamic factor held above 0.3,200,alpha,0.13,7,0.143497,118.658
+thermodynamic factor held above 0.3,200,alpha,0.17,5,0.188895,423.119
+thermodynamic factor held above 0.3,200,alpha,0.17,6,0.185746,374.982
+thermodynamic factor held above 0.3,200,alpha,0.17,7,0.183497,340.242
+thermodynamic factor held above 0.3,200,network,0.13,5,0.175067,359.505
+thermodynamic factor held above 0.3,200,network,0.13,6,0.167556,285.492
+thermodynamic factor held above 0.3,200,network,0.13,7,0.162191,237.27
+thermodynamic factor held above 0.3,200,network,0.17,5,0.215067,733.195
+thermodynamic factor held above 0.3,200,network,0.17,6,0.207556,620.488
+thermodynamic factor held above 0.3,200,network,0.17,7,0.202191,544.916

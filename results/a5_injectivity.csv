@@ -1,0 +1,6 @@
+clock,lam0,tau,jacobian_positive,jacobian_negative,shared_pairs
+common clock,0.5,0.3,1444,0,0
+common clock,0.2,1,1444,0,0
+common clock,1,0.1,1444,0,0
+common clock,0.05,3,1444,0,0
+depth-dependent clock,,,840,0,0

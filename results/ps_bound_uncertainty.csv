@@ -1,0 +1,4 @@
+fibers_per_bin,replicates,successful_fits,fit_p05_nm,fit_p50_nm,bins_p05_nm,bins_p50_nm,fraction_bins_unreachable
+6,4000,4000,35.3486,39.3851,42.5837,51.1158,0
+9,4000,4000,36.0587,39.3095,42.7,49.6576,0
+15,4000,4000,36.8657,39.3396,42.3279,47.9428,0

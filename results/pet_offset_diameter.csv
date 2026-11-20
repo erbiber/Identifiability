@@ -1,0 +1,3 @@
+model,fibers,X_c_offset,ci_low,ci_high
+without diameter,182,0.0105815,0.00679757,0.0146397
+with log diameter,182,0.00995655,0.00631647,0.0140166

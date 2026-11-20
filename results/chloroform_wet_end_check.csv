@@ -1,0 +1,13 @@
+solvent,w_PS,solvent_volume_fraction,D_self_measured,model_over_data_ZD,model_over_data_viscosity,model_over_data_xi_fit
+chloroform,0,1,2.29e-09,1.18691,1.18691,1.18691
+chloroform,0.137,0.817154,1.43e-09,1.34183,1.44413,1.22161
+chloroform,0.232,0.701364,9.59e-10,1.46109,1.68033,1.22209
+chloroform,0.322,0.59901,6.01e-10,1.59579,1.98807,1.20508
+chloroform,0.372,0.544977,4.43e-10,1.67334,2.20112,1.17888
+chloroform,0.446,0.46844,2.38e-10,1.95344,2.83536,1.21357
+toluene,0,,2.16e-09,1.12724,,
+toluene,0.091,,1.64e-09,1.26428,,
+toluene,0.185,,1.34e-09,1.26222,,
+toluene,0.261,,1.1e-09,1.2557,,
+toluene,0.394,,6.19e-10,1.38538,,
+toluene,0.467,,3.42e-10,1.74458,,

@@ -1,0 +1,9 @@
+check,value
+small_Z,1.00011
+small_X,0.568432
+small_X_expected,0.568413
+surface_continuity_TM,8.01666e-16
+surface_continuity_TE,7.17198e-16
+kappa30_1um_NA0.8,0.407634
+kappa30_1um_NA0.8_doubled_grid,0.407659
+relative_change_doubled_grid,6.19477e-05

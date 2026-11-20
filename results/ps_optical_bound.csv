@@ -1,0 +1,19 @@
+setting,focused,s_skin,fit_max_nm,per_bin_max_nm
+"NA 0.8, centred (central)",1,1,145.574,162.052
+"NA 0.8, centred (central)",1,0.3,362.889,394.166
+NA 0.65,1,1,120.717,136.626
+NA 0.65,1,0.3,301.44,360.46
+NA 0.9,1,1,157.916,172.553
+NA 0.9,1,0.3,382.786,410.16
+NA 0.5,1,1,84.3369,92.6717
+NA 0.5,1,0.3,241.806,273.198
+"NA 0.8, under-filled pupil",1,1,75.052,88.0416
+"NA 0.8, under-filled pupil",1,0.3,242.051,272.29
+"NA 0.8, over-filled pupil",1,1,159.235,174.586
+"NA 0.8, over-filled pupil",1,0.3,383.955,410.688
+"NA 0.8, focus offset 0.25 radius",1,1,132.357,149.224
+"NA 0.8, focus offset 0.25 radius",1,0.3,333.274,377.753
+"NA 0.8, focus offset 0.5 radius",1,1,109.886,125.738
+"NA 0.8, focus offset 0.5 radius",1,0.3,279.39,317.533
+Unfocused plane wave,0,1,25.5077,23.7615
+Unfocused plane wave,0,0.3,155.072,137.447

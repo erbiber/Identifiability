@@ -1,0 +1,4 @@
+channel,disk_minus_gap_offset_equal_P2,offset_ols_se,offset_ci_low,offset_ci_high,matched_disk_minus_gap,matched_disk_fibers,matched_ci_low,matched_ci_high,rss_reduction_separate_isotonic,permutation_p_common_function
+F_T,0.0114351,0.00253389,0.00590399,0.0169634,0.0215233,53,0.0129237,0.0297279,0.0292327,0.001998
+X_c,0.0113379,0.00176857,0.00735686,0.0155021,0.0173695,53,0.0104081,0.0239887,0.0169342,0.001998
+F_M,9.72323e-05,0.00178224,-0.00365109,0.00385727,0.00415378,53,-0.000946288,0.00879514,0.00423543,0.453546

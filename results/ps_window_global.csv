@@ -1,0 +1,5 @@
+flight_ms,cases,cases_window_open,width_ratio_min,width_ratio_median,width_ratio_max
+10,60,31,1.14725,1.77887,3.6795
+40,60,54,1.11052,2.52232,4.86246
+100,60,60,1.18224,2.68224,4.98572
+200,60,60,1.63645,3.05769,4.72634

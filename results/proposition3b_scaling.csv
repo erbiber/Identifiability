@@ -1,0 +1,9 @@
+lam_wet_over_surface_arrest_time,clock_strength_a,interior_maximum,criterion_wet_predicts_interior,criterion_arrest_predicts_interior
+100,0,True,True,True
+100,8,True,True,True
+10,0,True,True,True
+10,8,True,True,True
+1,0,True,True,True
+1,8,True,True,True
+0.1,0,True,True,True
+0.1,8,True,False,True

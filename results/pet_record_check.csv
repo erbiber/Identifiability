@@ -1,0 +1,15 @@
+quantity,value
+"fibers, total",240
+"fibers, plate",56
+"fibers, gap",105
+"fibers, disk",79
+fibers with a diameter,236
+"pooled linear R2, F_T against <P2>",0.897521
+"pooled linear R2, F_M against <P2>",0.935255
+largest gap <P2>,0.73792
+median X_c,0.04741
+maximum X_c,0.13489
+"mean X_c, disk",0.0590009
+fibers with |<P2>| <= 0.01,30
+"F_T of fibers with |<P2>| <= 0.01, min",0.10098
+"F_T of fibers with |<P2>| <= 0.01, max",0.13069

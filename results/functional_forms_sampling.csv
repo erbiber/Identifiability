@@ -1,0 +1,3 @@
+diameter_sampling,A,d_c_nm,b,rms_residual,n_total_dispersion_0.05,n_total_dispersion_0.10,n_total_dispersion_0.15
+uniform in diameter,0.995354,254.312,0.0814256,0.0174026,64.7914,259.166,583.123
+uniform in log diameter,1.11855,211.811,0.0984262,0.0198455,49.8222,199.289,448.4

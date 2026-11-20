@@ -1,0 +1,10 @@
+collector,fibers_below_550nm,median_P2,max_P2,median_ci_low,median_ci_high,stated_ceiling_share_of_median,stated_ceiling_share_at_ci_low
+plate,16,0.0151,0.03544,-0.0059,0.02596,2.64901,-6.77966
+gap,15,0.18257,0.73792,0.06112,0.31638,0.219094,0.65445
+disk,11,0.24407,0.3919,0.18867,0.31441,0.163887,0.21201
+"gap at nominal diameters, delta 13.1 nm",15,,,,,0.228482,
+"gap at nominal diameters, delta 30 nm",15,,,,,0.228144,
+"gap at nominal diameters, delta 60 nm",15,,,,,0.227487,
+"disk at nominal diameters, delta 13.1 nm",11,,,,,0.18393,
+"disk at nominal diameters, delta 30 nm",11,,,,,0.183151,
+"disk at nominal diameters, delta 60 nm",11,,,,,0.181635,

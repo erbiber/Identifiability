@@ -1,0 +1,121 @@
+diffusivity_variant,phi_eq,Tg_shift_K_per_vol_percent,readout_floor_nm,min_flight_ms
+baseline,0.13,5,140,14.467
+baseline,0.13,5,500,nan
+baseline,0.13,6,140,28.7869
+baseline,0.13,6,500,nan
+baseline,0.13,7,140,48.9514
+baseline,0.13,7,500,nan
+baseline,0.17,5,140,3.18396
+baseline,0.17,5,500,77.3758
+baseline,0.17,6,140,5.0633
+baseline,0.17,6,500,117.519
+baseline,0.17,7,140,7.35594
+baseline,0.17,7,500,161.85
+whole curve x0.5,0.13,5,140,38.1601
+whole curve x0.5,0.13,5,500,nan
+whole curve x0.5,0.13,6,140,74.1474
+whole curve x0.5,0.13,6,500,nan
+whole curve x0.5,0.13,7,140,123.727
+whole curve x0.5,0.13,7,500,nan
+whole curve x0.5,0.17,5,140,7.60672
+whole curve x0.5,0.17,5,500,182.697
+whole curve x0.5,0.17,6,140,11.9954
+whole curve x0.5,0.17,6,500,274.033
+whole curve x0.5,0.17,7,140,17.2591
+whole curve x0.5,0.17,7,500,374.789
+whole curve x2,0.13,5,140,5.44813
+whole curve x2,0.13,5,500,192.03
+whole curve x2,0.13,6,140,11.1158
+whole curve x2,0.13,6,500,357.626
+whole curve x2,0.13,7,140,19.2862
+whole curve x2,0.13,7,500,nan
+whole curve x2,0.17,5,140,1.32583
+whole curve x2,0.17,5,500,32.6158
+whole curve x2,0.17,6,140,2.13516
+whole curve x2,0.17,6,500,50.2692
+whole curve x2,0.17,7,140,3.13168
+whole curve x2,0.17,7,500,70.3059
+glass composition 0.13,0.13,5,140,14.4665
+glass composition 0.13,0.13,5,500,nan
+glass composition 0.13,0.13,6,140,28.7908
+glass composition 0.13,0.13,6,500,nan
+glass composition 0.13,0.13,7,140,48.9542
+glass composition 0.13,0.13,7,500,nan
+glass composition 0.13,0.17,5,140,3.18404
+glass composition 0.13,0.17,5,500,77.3748
+glass composition 0.13,0.17,6,140,5.06375
+glass composition 0.13,0.17,6,500,117.474
+glass composition 0.13,0.17,7,140,7.3555
+glass composition 0.13,0.17,7,500,161.936
+glass composition 0.17,0.13,5,140,14.4669
+glass composition 0.17,0.13,5,500,nan
+glass composition 0.17,0.13,6,140,28.7733
+glass composition 0.17,0.13,6,500,nan
+glass composition 0.17,0.13,7,140,48.0592
+glass composition 0.17,0.13,7,500,nan
+glass composition 0.17,0.17,5,140,3.18352
+glass composition 0.17,0.17,5,500,77.3658
+glass composition 0.17,0.17,6,140,5.06179
+glass composition 0.17,0.17,6,500,117.606
+glass composition 0.17,0.17,7,140,7.3582
+glass composition 0.17,0.17,7,500,161.618
+glassy tail to 1e-18,0.13,5,140,14.4652
+glassy tail to 1e-18,0.13,5,500,nan
+glassy tail to 1e-18,0.13,6,140,28.7861
+glassy tail to 1e-18,0.13,6,500,nan
+glassy tail to 1e-18,0.13,7,140,49.006
+glassy tail to 1e-18,0.13,7,500,nan
+glassy tail to 1e-18,0.17,5,140,3.18379
+glassy tail to 1e-18,0.17,5,500,77.472
+glassy tail to 1e-18,0.17,6,140,5.06217
+glassy tail to 1e-18,0.17,6,500,117.754
+glassy tail to 1e-18,0.17,7,140,7.36888
+glassy tail to 1e-18,0.17,7,500,161.687
+viscosity-estimated parameters,0.13,5,140,2.47531
+viscosity-estimated parameters,0.13,5,500,66.829
+viscosity-estimated parameters,0.13,6,140,4.25104
+viscosity-estimated parameters,0.13,6,500,109.59
+viscosity-estimated parameters,0.13,7,140,6.56816
+viscosity-estimated parameters,0.13,7,500,161.367
+viscosity-estimated parameters,0.17,5,140,1
+viscosity-estimated parameters,0.17,5,500,20.0775
+viscosity-estimated parameters,0.17,6,140,1.37417
+viscosity-estimated parameters,0.17,6,500,28.2818
+viscosity-estimated parameters,0.17,7,140,1.86976
+viscosity-estimated parameters,0.17,7,500,37.4931
+jump-volume ratio fitted,0.13,5,140,230.722
+jump-volume ratio fitted,0.13,5,500,nan
+jump-volume ratio fitted,0.13,6,140,485.939
+jump-volume ratio fitted,0.13,6,500,nan
+jump-volume ratio fitted,0.13,7,140,nan
+jump-volume ratio fitted,0.13,7,500,nan
+jump-volume ratio fitted,0.17,5,140,18.6633
+jump-volume ratio fitted,0.17,5,500,nan
+jump-volume ratio fitted,0.17,6,140,33.2078
+jump-volume ratio fitted,0.17,6,500,nan
+jump-volume ratio fitted,0.17,7,140,51.8637
+jump-volume ratio fitted,0.17,7,500,nan
+self-diffusion (no thermodynamic factor),0.13,5,140,7.36446
+self-diffusion (no thermodynamic factor),0.13,5,500,280.231
+self-diffusion (no thermodynamic factor),0.13,6,140,15.8153
+self-diffusion (no thermodynamic factor),0.13,6,500,nan
+self-diffusion (no thermodynamic factor),0.13,7,140,28.255
+self-diffusion (no thermodynamic factor),0.13,7,500,nan
+self-diffusion (no thermodynamic factor),0.17,5,140,1.44395
+self-diffusion (no thermodynamic factor),0.17,5,500,38.3655
+self-diffusion (no thermodynamic factor),0.17,6,140,2.4719
+self-diffusion (no thermodynamic factor),0.17,6,500,61.3413
+self-diffusion (no thermodynamic factor),0.17,7,140,3.75201
+self-diffusion (no thermodynamic factor),0.17,7,500,88.7077
+thermodynamic factor held above 0.3,0.13,5,140,14.4645
+thermodynamic factor held above 0.3,0.13,5,500,nan
+thermodynamic factor held above 0.3,0.13,6,140,28.7913
+thermodynamic factor held above 0.3,0.13,6,500,nan
+thermodynamic factor held above 0.3,0.13,7,140,48.9537
+thermodynamic factor held above 0.3,0.13,7,500,nan
+thermodynamic factor held above 0.3,0.17,5,140,3.17984
+thermodynamic factor held above 0.3,0.17,5,500,77.3676
+thermodynamic factor held above 0.3,0.17,6,140,5.06448
+thermodynamic factor held above 0.3,0.17,6,500,117.529
+thermodynamic factor held above 0.3,0.17,7,140,7.36124
+thermodynamic factor held above 0.3,0.17,7,500,162.079

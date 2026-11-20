@@ -1,0 +1,11 @@
+variation,D_s_at_0.17_m2_per_s,flat_nm_0.14,flat_nm_0.17,flat_nm_0.20
+baseline,6.95257e-13,20.0362,52.7355,102.509
+whole curve x0.5,3.47629e-13,14.1677,37.2896,72.4849
+whole curve x2,1.39051e-12,28.3355,74.5792,144.97
+glass composition 0.13,6.95257e-13,20.0362,52.7355,102.509
+glass composition 0.17,6.95257e-13,30.9672,52.7355,102.509
+glassy tail to 1e-18,6.95257e-13,20.0362,52.7355,102.509
+viscosity-estimated parameters,3.47764e-12,55.1477,117.943,198.259
+jump-volume ratio fitted,8.50854e-14,16.2481,18.4483,43.3564
+self-diffusion (no thermodynamic factor),1.03926e-12,23.5802,64.4752,130.372
+thermodynamic factor held above 0.3,6.95257e-13,20.0362,52.7355,102.509

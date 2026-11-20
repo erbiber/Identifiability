@@ -1,0 +1,37 @@
+variant,mode,flat_change_min,flat_change_max,a3_change_min,a3_change_max
+whole curve x0.5,alpha,-0.296008,-0.290051,-0.300158,-0.286261
+whole curve x0.5,network,-0.296177,-0.290145,-0.299233,-0.285649
+whole curve x0.5,chain retraction,-0.294994,-0.289924,-0.301692,-0.284941
+whole curve x0.5,reptation,-0.295147,-0.290706,-0.303092,-0.282759
+whole curve x2,alpha,0.408373,0.420095,0.398844,0.427246
+whole curve x2,network,0.407696,0.419337,0.401844,0.428397
+whole curve x2,chain retraction,0.409728,0.417981,0.395936,0.428015
+whole curve x2,reptation,0.409723,0.417688,0.39282,0.430114
+glass composition 0.13,alpha,-0.00118977,0.000305143,-0.131256,-0.00424449
+glass composition 0.13,network,-0.000155267,0.000159028,-0.0328574,-0.00120603
+glass composition 0.13,chain retraction,-5.4731e-05,4.36408e-05,-0.00410317,-9.11351e-05
+glass composition 0.13,reptation,-2.62245e-05,1.65926e-05,-0.000608988,-2.40074e-05
+glass composition 0.17,alpha,-0.000496393,0.357197,0.0451927,0.33843
+glass composition 0.17,network,-0.000344492,0.0413027,0.0121214,0.310826
+glass composition 0.17,chain retraction,-9.76902e-05,0.000112568,0.00124333,0.0436098
+glass composition 0.17,reptation,-4.86029e-05,4.78447e-05,0.000213981,0.00620439
+glassy tail to 1e-18,alpha,-0.00223684,0.00101437,-0.00273547,-0.000159429
+glassy tail to 1e-18,network,-0.00140091,0.000281436,-0.000562181,-4.19819e-05
+glassy tail to 1e-18,chain retraction,-0.000413865,0.000243638,-0.000108467,-2.23189e-05
+glassy tail to 1e-18,reptation,-0.000195876,0.000181826,-4.59396e-05,-1.29476e-05
+viscosity-estimated parameters,alpha,0.893758,1.61496,0.667846,1.21494
+viscosity-estimated parameters,network,0.700817,1.29542,0.917744,1.28321
+viscosity-estimated parameters,chain retraction,0.407289,0.843671,0.586876,1.10773
+viscosity-estimated parameters,reptation,0.224808,0.555402,0.350343,0.82117
+jump-volume ratio fitted,alpha,-0.632592,-0.363404,-0.556838,-0.027531
+jump-volume ratio fitted,network,-0.648061,-0.497097,-0.565659,-0.111984
+jump-volume ratio fitted,chain retraction,-0.548714,-0.358658,-0.563119,-0.450599
+jump-volume ratio fitted,reptation,-0.439723,-0.230505,-0.517231,-0.326415
+self-diffusion (no thermodynamic factor),alpha,0.185223,0.278228,0.057225,0.232641
+self-diffusion (no thermodynamic factor),network,0.216342,0.344408,0.15444,0.275996
+self-diffusion (no thermodynamic factor),chain retraction,0.293841,0.527645,0.236122,0.399382
+self-diffusion (no thermodynamic factor),reptation,0.402898,0.896228,0.309844,0.641549
+thermodynamic factor held above 0.3,alpha,-0.000649294,0.000495037,-0.000800121,0.000508386
+thermodynamic factor held above 0.3,network,-0.000966459,0.000765136,-8.19608e-06,0.000293242
+thermodynamic factor held above 0.3,chain retraction,-0.000260465,0.0431444,-2.86121e-06,0.0118847
+thermodynamic factor held above 0.3,reptation,8.66129e-05,0.290682,0.00128918,0.118256

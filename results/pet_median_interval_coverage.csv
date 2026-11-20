@@ -1,0 +1,5 @@
+collector,fibers,lower_order,upper_order,lower_P2,upper_P2,coverage_of_population_median,stated_ceiling_share_at_lower
+gap,15,4,12,0.06112,0.31638,0.964844,0.65445
+gap,15,3,13,0.04439,0.48783,0.992615,0.901104
+disk,11,3,9,0.18867,0.31441,0.93457,0.21201
+disk,11,2,10,0.0865,0.3342,0.988281,0.462428

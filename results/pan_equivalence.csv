@@ -1,0 +1,10 @@
+quantity,value
+fibers,23
+mean difference,0.00467435
+"mean difference, 90% interval low",-0.0275255
+"mean difference, 90% interval high",0.0365436
+equivalence margin,0.05
+equivalent within margin,True
+slope of difference on calibrated,0.0508167
+slope 95% interval low,-0.376367
+slope 95% interval high,0.356317

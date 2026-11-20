@@ -1,0 +1,6 @@
+quantity,value
+reference evaporation velocity (m/s),1.8801e-06
+saturated vapor density (kg/m3),1.03841
+ideal gas-side velocity (m/s),0.00701626
+gas-side over reference,3731.86
+population quantile exceeded by the largest of 16 with 95% confidence,0.82925

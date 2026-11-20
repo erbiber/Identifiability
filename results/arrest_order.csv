@@ -1,0 +1,13 @@
+axial_solvent_deficit_A,evaporation_k,arrest_order
+0.05,0.5,outward-first
+0.05,50,outward-first
+0.2,0.5,outward-first
+0.2,50,outward-first
+0.4,0.5,outward-first
+0.4,50,outward-first
+0.6,0.5,outward-first
+0.6,50,outward-first
+0.68,0.5,outward-first
+0.68,50,outward-first
+0.72,0.5,NON-MONOTONE
+0.72,50,NON-MONOTONE

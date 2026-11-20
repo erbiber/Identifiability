@@ -1,0 +1,5 @@
+estimator,offset,bootstrap_standard_error,design_effect_to_lose_significance,sessions_per_collector,fibers_per_session,icc_needed,session_t_dof,design_effect_to_lose_significance_t,icc_needed_t
+linear model,0.0113379,0.00200484,8.3255,2,46,0.162789,2,1.72756,0.0161681
+linear model,0.0113379,0.00200484,8.3255,4,23,0.332977,6,5.34158,0.197345
+matched comparison,0.0173695,0.0033908,6.8308,2,46,0.129573,2,1.41741,0.00927578
+matched comparison,0.0173695,0.0033908,6.8308,4,23,0.265037,6,4.3826,0.153754

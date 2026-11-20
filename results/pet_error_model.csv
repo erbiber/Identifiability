@@ -1,0 +1,16 @@
+quantity,value
+FWHM_1725 per unit X_c (cm-1),22.99
+FWHM_1725 equivalent of linear offset (cm-1),0.260659
+FWHM_1725 equivalent of matched offset (cm-1),0.399324
+X_c noise 0.005: median offset,0.0113323
+X_c noise 0.005: 2.5th percentile,0.00992394
+X_c noise 0.005: 97.5th percentile,0.0128588
+X_c noise 0.01: median offset,0.0113196
+X_c noise 0.01: 2.5th percentile,0.00859235
+X_c noise 0.01: 97.5th percentile,0.0142683
+P2 noise 0.02: median offset,0.011361
+P2 noise 0.05: median offset,0.0115367
+slope of X_c on P2,0.0556738
+disk minus gap mean P2,0.0228084
+reliability of <P2> at which the offset vanishes,0.100718
+R2 of F_T on P2 (lower bound on reliability),0.897521

@@ -1,0 +1,8 @@
+input,factor_min,factor_max
+flight time 10-100 ms,2.31413,2.54646
+diffusivity form (ten variants),3.85344,6.04907
+equilibrium glass composition 0.13-0.17,2.03816,2.12128
+glass-transition shift 5-7 K per vol%,1.35711,1.55391
+"all inputs jointly, 10-100 ms",34.1291,34.1291
+"all inputs jointly, 10-100 ms, min nm",28.822,28.822
+"all inputs jointly, 10-100 ms, max nm",983.667,983.667

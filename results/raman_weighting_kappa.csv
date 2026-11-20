@@ -1,0 +1,649 @@
+setting,focused,polarization,delta_nm,d_nm,kappa
+"NA 0.8, centred (central)",1,Z,13.1,500,0.892087
+"NA 0.8, centred (central)",1,X,13.1,500,0.792206
+"NA 0.8, centred (central)",1,max,13.1,500,0.892087
+"NA 0.8, centred (central)",1,Z,30,500,0.942498
+"NA 0.8, centred (central)",1,X,30,500,0.821877
+"NA 0.8, centred (central)",1,max,30,500,0.942498
+"NA 0.8, centred (central)",1,Z,60,500,0.937968
+"NA 0.8, centred (central)",1,X,60,500,0.824629
+"NA 0.8, centred (central)",1,max,60,500,0.937968
+"NA 0.8, centred (central)",1,Z,13.1,700,0.650469
+"NA 0.8, centred (central)",1,X,13.1,700,0.713151
+"NA 0.8, centred (central)",1,max,13.1,700,0.713151
+"NA 0.8, centred (central)",1,Z,30,700,0.657229
+"NA 0.8, centred (central)",1,X,30,700,0.720615
+"NA 0.8, centred (central)",1,max,30,700,0.720615
+"NA 0.8, centred (central)",1,Z,60,700,0.606799
+"NA 0.8, centred (central)",1,X,60,700,0.680104
+"NA 0.8, centred (central)",1,max,60,700,0.680104
+"NA 0.8, centred (central)",1,Z,13.1,900,0.56818
+"NA 0.8, centred (central)",1,X,13.1,900,0.614544
+"NA 0.8, centred (central)",1,max,13.1,900,0.614544
+"NA 0.8, centred (central)",1,Z,30,900,0.55849
+"NA 0.8, centred (central)",1,X,30,900,0.61089
+"NA 0.8, centred (central)",1,max,30,900,0.61089
+"NA 0.8, centred (central)",1,Z,60,900,0.491413
+"NA 0.8, centred (central)",1,X,60,900,0.553904
+"NA 0.8, centred (central)",1,max,60,900,0.553904
+"NA 0.8, centred (central)",1,Z,13.1,1000,0.379053
+"NA 0.8, centred (central)",1,X,13.1,1000,0.412248
+"NA 0.8, centred (central)",1,max,13.1,1000,0.412248
+"NA 0.8, centred (central)",1,Z,30,1000,0.375292
+"NA 0.8, centred (central)",1,X,30,1000,0.407634
+"NA 0.8, centred (central)",1,max,30,1000,0.407634
+"NA 0.8, centred (central)",1,Z,60,1000,0.35546
+"NA 0.8, centred (central)",1,X,60,1000,0.38945
+"NA 0.8, centred (central)",1,max,60,1000,0.38945
+"NA 0.8, centred (central)",1,Z,13.1,1100,0.517378
+"NA 0.8, centred (central)",1,X,13.1,1100,0.557446
+"NA 0.8, centred (central)",1,max,13.1,1100,0.557446
+"NA 0.8, centred (central)",1,Z,30,1100,0.501252
+"NA 0.8, centred (central)",1,X,30,1100,0.545273
+"NA 0.8, centred (central)",1,max,30,1100,0.545273
+"NA 0.8, centred (central)",1,Z,60,1100,0.432664
+"NA 0.8, centred (central)",1,X,60,1100,0.480786
+"NA 0.8, centred (central)",1,max,60,1100,0.480786
+"NA 0.8, centred (central)",1,Z,13.1,1300,0.463872
+"NA 0.8, centred (central)",1,X,13.1,1300,0.511713
+"NA 0.8, centred (central)",1,max,13.1,1300,0.511713
+"NA 0.8, centred (central)",1,Z,30,1300,0.442058
+"NA 0.8, centred (central)",1,X,30,1300,0.493123
+"NA 0.8, centred (central)",1,max,30,1300,0.493123
+"NA 0.8, centred (central)",1,Z,60,1300,0.373717
+"NA 0.8, centred (central)",1,X,60,1300,0.425542
+"NA 0.8, centred (central)",1,max,60,1300,0.425542
+"NA 0.8, centred (central)",1,Z,13.1,1500,0.420704
+"NA 0.8, centred (central)",1,X,13.1,1500,0.465548
+"NA 0.8, centred (central)",1,max,13.1,1500,0.465548
+"NA 0.8, centred (central)",1,Z,30,1500,0.397152
+"NA 0.8, centred (central)",1,X,30,1500,0.443588
+"NA 0.8, centred (central)",1,max,30,1500,0.443588
+"NA 0.8, centred (central)",1,Z,60,1500,0.333227
+"NA 0.8, centred (central)",1,X,60,1500,0.378202
+"NA 0.8, centred (central)",1,max,60,1500,0.378202
+"NA 0.8, centred (central)",1,Z,13.1,1700,0.379187
+"NA 0.8, centred (central)",1,X,13.1,1700,0.42492
+"NA 0.8, centred (central)",1,max,13.1,1700,0.42492
+"NA 0.8, centred (central)",1,Z,30,1700,0.356311
+"NA 0.8, centred (central)",1,X,30,1700,0.402021
+"NA 0.8, centred (central)",1,max,30,1700,0.402021
+"NA 0.8, centred (central)",1,Z,60,1700,0.299837
+"NA 0.8, centred (central)",1,X,60,1700,0.341432
+"NA 0.8, centred (central)",1,max,60,1700,0.341432
+NA 0.65,1,Z,13.1,500,1.0475
+NA 0.65,1,X,13.1,500,0.816956
+NA 0.65,1,max,13.1,500,1.0475
+NA 0.65,1,Z,30,500,1.10291
+NA 0.65,1,X,30,500,0.841559
+NA 0.65,1,max,30,500,1.10291
+NA 0.65,1,Z,60,500,1.09418
+NA 0.65,1,X,60,500,0.840523
+NA 0.65,1,max,60,500,1.09418
+NA 0.65,1,Z,13.1,700,0.89952
+NA 0.65,1,X,13.1,700,0.787518
+NA 0.65,1,max,13.1,700,0.89952
+NA 0.65,1,Z,30,700,0.917168
+NA 0.65,1,X,30,700,0.789529
+NA 0.65,1,max,30,700,0.917168
+NA 0.65,1,Z,60,700,0.858816
+NA 0.65,1,X,60,700,0.745707
+NA 0.65,1,max,60,700,0.858816
+NA 0.65,1,Z,13.1,900,0.748454
+NA 0.65,1,X,13.1,900,0.727949
+NA 0.65,1,max,13.1,900,0.748454
+NA 0.65,1,Z,30,900,0.741972
+NA 0.65,1,X,30,900,0.721167
+NA 0.65,1,max,30,900,0.741972
+NA 0.65,1,Z,60,900,0.661818
+NA 0.65,1,X,60,900,0.656463
+NA 0.65,1,max,60,900,0.661818
+NA 0.65,1,Z,13.1,1000,0.520625
+NA 0.65,1,X,13.1,1000,0.541335
+NA 0.65,1,max,13.1,1000,0.541335
+NA 0.65,1,Z,30,1000,0.512177
+NA 0.65,1,X,30,1000,0.532415
+NA 0.65,1,max,30,1000,0.532415
+NA 0.65,1,Z,60,1000,0.471066
+NA 0.65,1,X,60,1000,0.499341
+NA 0.65,1,max,60,1000,0.499341
+NA 0.65,1,Z,13.1,1100,0.629544
+NA 0.65,1,X,13.1,1100,0.65078
+NA 0.65,1,max,13.1,1100,0.65078
+NA 0.65,1,Z,30,1100,0.615377
+NA 0.65,1,X,30,1100,0.640236
+NA 0.65,1,max,30,1100,0.640236
+NA 0.65,1,Z,60,1100,0.537788
+NA 0.65,1,X,60,1100,0.571716
+NA 0.65,1,max,60,1100,0.571716
+NA 0.65,1,Z,13.1,1300,0.578096
+NA 0.65,1,X,13.1,1300,0.598716
+NA 0.65,1,max,13.1,1300,0.598716
+NA 0.65,1,Z,30,1300,0.557838
+NA 0.65,1,X,30,1300,0.582492
+NA 0.65,1,max,30,1300,0.582492
+NA 0.65,1,Z,60,1300,0.47946
+NA 0.65,1,X,60,1300,0.510979
+NA 0.65,1,max,60,1300,0.510979
+NA 0.65,1,Z,13.1,1500,0.534632
+NA 0.65,1,X,13.1,1500,0.559934
+NA 0.65,1,max,13.1,1500,0.559934
+NA 0.65,1,Z,30,1500,0.510989
+NA 0.65,1,X,30,1500,0.538758
+NA 0.65,1,max,30,1500,0.538758
+NA 0.65,1,Z,60,1500,0.434414
+NA 0.65,1,X,60,1500,0.4656
+NA 0.65,1,max,60,1500,0.4656
+NA 0.65,1,Z,13.1,1700,0.490838
+NA 0.65,1,X,13.1,1700,0.519184
+NA 0.65,1,max,13.1,1700,0.519184
+NA 0.65,1,Z,30,1700,0.46671
+NA 0.65,1,X,30,1700,0.495779
+NA 0.65,1,max,30,1700,0.495779
+NA 0.65,1,Z,60,1700,0.396455
+NA 0.65,1,X,60,1700,0.425386
+NA 0.65,1,max,60,1700,0.425386
+NA 0.9,1,Z,13.1,500,0.760783
+NA 0.9,1,X,13.1,500,0.771477
+NA 0.9,1,max,13.1,500,0.771477
+NA 0.9,1,Z,30,500,0.802958
+NA 0.9,1,X,30,500,0.805522
+NA 0.9,1,max,30,500,0.805522
+NA 0.9,1,Z,60,500,0.797534
+NA 0.9,1,X,60,500,0.81213
+NA 0.9,1,max,60,500,0.81213
+NA 0.9,1,Z,13.1,700,0.545258
+NA 0.9,1,X,13.1,700,0.648106
+NA 0.9,1,max,13.1,700,0.648106
+NA 0.9,1,Z,30,700,0.543246
+NA 0.9,1,X,30,700,0.657501
+NA 0.9,1,max,30,700,0.657501
+NA 0.9,1,Z,60,700,0.490344
+NA 0.9,1,X,60,700,0.619953
+NA 0.9,1,max,60,700,0.619953
+NA 0.9,1,Z,13.1,900,0.506841
+NA 0.9,1,X,13.1,900,0.554472
+NA 0.9,1,max,13.1,900,0.554472
+NA 0.9,1,Z,30,900,0.494153
+NA 0.9,1,X,30,900,0.548539
+NA 0.9,1,max,30,900,0.548539
+NA 0.9,1,Z,60,900,0.42936
+NA 0.9,1,X,60,900,0.492033
+NA 0.9,1,max,60,900,0.492033
+NA 0.9,1,Z,13.1,1000,0.324375
+NA 0.9,1,X,13.1,1000,0.362963
+NA 0.9,1,max,13.1,1000,0.362963
+NA 0.9,1,Z,30,1000,0.324112
+NA 0.9,1,X,30,1000,0.359569
+NA 0.9,1,max,30,1000,0.359569
+NA 0.9,1,Z,60,1000,0.315108
+NA 0.9,1,X,60,1000,0.346317
+NA 0.9,1,max,60,1000,0.346317
+NA 0.9,1,Z,13.1,1100,0.442851
+NA 0.9,1,X,13.1,1100,0.51035
+NA 0.9,1,max,13.1,1100,0.51035
+NA 0.9,1,Z,30,1100,0.424298
+NA 0.9,1,X,30,1100,0.495828
+NA 0.9,1,max,30,1100,0.495828
+NA 0.9,1,Z,60,1100,0.36073
+NA 0.9,1,X,60,1100,0.431894
+NA 0.9,1,max,60,1100,0.431894
+NA 0.9,1,Z,13.1,1300,0.39584
+NA 0.9,1,X,13.1,1300,0.458528
+NA 0.9,1,max,13.1,1300,0.458528
+NA 0.9,1,Z,30,1300,0.374501
+NA 0.9,1,X,30,1300,0.438929
+NA 0.9,1,max,30,1300,0.438929
+NA 0.9,1,Z,60,1300,0.314194
+NA 0.9,1,X,60,1300,0.375149
+NA 0.9,1,max,60,1300,0.375149
+NA 0.9,1,Z,13.1,1500,0.359861
+NA 0.9,1,X,13.1,1500,0.41615
+NA 0.9,1,max,13.1,1500,0.41615
+NA 0.9,1,Z,30,1500,0.338222
+NA 0.9,1,X,30,1500,0.394237
+NA 0.9,1,max,30,1500,0.394237
+NA 0.9,1,Z,60,1500,0.283256
+NA 0.9,1,X,60,1500,0.333631
+NA 0.9,1,max,60,1500,0.333631
+NA 0.9,1,Z,13.1,1700,0.329267
+NA 0.9,1,X,13.1,1700,0.379956
+NA 0.9,1,max,13.1,1700,0.379956
+NA 0.9,1,Z,30,1700,0.30915
+NA 0.9,1,X,30,1700,0.358191
+NA 0.9,1,max,30,1700,0.358191
+NA 0.9,1,Z,60,1700,0.260855
+NA 0.9,1,X,60,1700,0.303422
+NA 0.9,1,max,60,1700,0.303422
+NA 0.5,1,Z,13.1,500,1.15984
+NA 0.5,1,X,13.1,500,0.837503
+NA 0.5,1,max,13.1,500,1.15984
+NA 0.5,1,Z,30,500,1.21615
+NA 0.5,1,X,30,500,0.858465
+NA 0.5,1,max,30,500,1.21615
+NA 0.5,1,Z,60,500,1.20119
+NA 0.5,1,X,60,500,0.855013
+NA 0.5,1,max,60,500,1.20119
+NA 0.5,1,Z,13.1,700,1.18273
+NA 0.5,1,X,13.1,700,0.839631
+NA 0.5,1,max,13.1,700,1.18273
+NA 0.5,1,Z,30,700,1.20747
+NA 0.5,1,X,30,700,0.83738
+NA 0.5,1,max,30,700,1.20747
+NA 0.5,1,Z,60,700,1.13506
+NA 0.5,1,X,60,700,0.794291
+NA 0.5,1,max,60,700,1.13506
+NA 0.5,1,Z,13.1,900,1.19129
+NA 0.5,1,X,13.1,900,0.839447
+NA 0.5,1,max,13.1,900,1.19129
+NA 0.5,1,Z,30,900,1.19141
+NA 0.5,1,X,30,900,0.825813
+NA 0.5,1,max,30,900,1.19141
+NA 0.5,1,Z,60,900,1.07556
+NA 0.5,1,X,60,900,0.754982
+NA 0.5,1,max,60,900,1.07556
+NA 0.5,1,Z,13.1,1000,0.869751
+NA 0.5,1,X,13.1,1000,0.715977
+NA 0.5,1,max,13.1,1000,0.869751
+NA 0.5,1,Z,30,1000,0.86293
+NA 0.5,1,X,30,1000,0.69925
+NA 0.5,1,max,30,1000,0.86293
+NA 0.5,1,Z,60,1000,0.784981
+NA 0.5,1,X,60,1000,0.648653
+NA 0.5,1,max,60,1000,0.784981
+NA 0.5,1,Z,13.1,1100,0.913146
+NA 0.5,1,X,13.1,1100,0.795767
+NA 0.5,1,max,13.1,1100,0.913146
+NA 0.5,1,Z,30,1100,0.894722
+NA 0.5,1,X,30,1100,0.779552
+NA 0.5,1,max,30,1100,0.894722
+NA 0.5,1,Z,60,1100,0.781364
+NA 0.5,1,X,60,1100,0.699139
+NA 0.5,1,max,60,1100,0.781364
+NA 0.5,1,Z,13.1,1300,0.752463
+NA 0.5,1,X,13.1,1300,0.728014
+NA 0.5,1,max,13.1,1300,0.752463
+NA 0.5,1,Z,30,1300,0.728805
+NA 0.5,1,X,30,1300,0.710206
+NA 0.5,1,max,30,1300,0.728805
+NA 0.5,1,Z,60,1300,0.627974
+NA 0.5,1,X,60,1300,0.62904
+NA 0.5,1,max,60,1300,0.62904
+NA 0.5,1,Z,13.1,1500,0.695366
+NA 0.5,1,X,13.1,1500,0.676713
+NA 0.5,1,max,13.1,1500,0.695366
+NA 0.5,1,Z,30,1500,0.667511
+NA 0.5,1,X,30,1500,0.655768
+NA 0.5,1,max,30,1500,0.667511
+NA 0.5,1,Z,60,1500,0.569
+NA 0.5,1,X,60,1500,0.574259
+NA 0.5,1,max,60,1500,0.574259
+NA 0.5,1,Z,13.1,1700,0.64526
+NA 0.5,1,X,13.1,1700,0.63725
+NA 0.5,1,max,13.1,1700,0.64526
+NA 0.5,1,Z,30,1700,0.618087
+NA 0.5,1,X,30,1700,0.61398
+NA 0.5,1,max,30,1700,0.618087
+NA 0.5,1,Z,60,1700,0.526843
+NA 0.5,1,X,60,1700,0.533443
+NA 0.5,1,max,60,1700,0.533443
+"NA 0.8, under-filled pupil",1,Z,13.1,500,1.1296
+"NA 0.8, under-filled pupil",1,X,13.1,500,0.831918
+"NA 0.8, under-filled pupil",1,max,13.1,500,1.1296
+"NA 0.8, under-filled pupil",1,Z,30,500,1.18518
+"NA 0.8, under-filled pupil",1,X,30,500,0.853842
+"NA 0.8, under-filled pupil",1,max,30,500,1.18518
+"NA 0.8, under-filled pupil",1,Z,60,500,1.17112
+"NA 0.8, under-filled pupil",1,X,60,500,0.850934
+"NA 0.8, under-filled pupil",1,max,60,500,1.17112
+"NA 0.8, under-filled pupil",1,Z,13.1,700,1.12781
+"NA 0.8, under-filled pupil",1,X,13.1,700,0.828577
+"NA 0.8, under-filled pupil",1,max,13.1,700,1.12781
+"NA 0.8, under-filled pupil",1,Z,30,700,1.14965
+"NA 0.8, under-filled pupil",1,X,30,700,0.826892
+"NA 0.8, under-filled pupil",1,max,30,700,1.14965
+"NA 0.8, under-filled pupil",1,Z,60,700,1.07739
+"NA 0.8, under-filled pupil",1,X,60,700,0.782767
+"NA 0.8, under-filled pupil",1,max,60,700,1.07739
+"NA 0.8, under-filled pupil",1,Z,13.1,900,1.15264
+"NA 0.8, under-filled pupil",1,X,13.1,900,0.82263
+"NA 0.8, under-filled pupil",1,max,13.1,900,1.15264
+"NA 0.8, under-filled pupil",1,Z,30,900,1.15014
+"NA 0.8, under-filled pupil",1,X,30,900,0.809437
+"NA 0.8, under-filled pupil",1,max,30,900,1.15014
+"NA 0.8, under-filled pupil",1,Z,60,900,1.03404
+"NA 0.8, under-filled pupil",1,X,60,900,0.738394
+"NA 0.8, under-filled pupil",1,max,60,900,1.03404
+"NA 0.8, under-filled pupil",1,Z,13.1,1000,0.86921
+"NA 0.8, under-filled pupil",1,X,13.1,1000,0.697411
+"NA 0.8, under-filled pupil",1,max,13.1,1000,0.86921
+"NA 0.8, under-filled pupil",1,Z,30,1000,0.862309
+"NA 0.8, under-filled pupil",1,X,30,1000,0.681057
+"NA 0.8, under-filled pupil",1,max,30,1000,0.862309
+"NA 0.8, under-filled pupil",1,Z,60,1000,0.784013
+"NA 0.8, under-filled pupil",1,X,60,1000,0.631724
+"NA 0.8, under-filled pupil",1,max,60,1000,0.784013
+"NA 0.8, under-filled pupil",1,Z,13.1,1100,0.937092
+"NA 0.8, under-filled pupil",1,X,13.1,1100,0.787749
+"NA 0.8, under-filled pupil",1,max,13.1,1100,0.937092
+"NA 0.8, under-filled pupil",1,Z,30,1100,0.917482
+"NA 0.8, under-filled pupil",1,X,30,1100,0.77067
+"NA 0.8, under-filled pupil",1,max,30,1100,0.917482
+"NA 0.8, under-filled pupil",1,Z,60,1100,0.799383
+"NA 0.8, under-filled pupil",1,X,60,1100,0.689684
+"NA 0.8, under-filled pupil",1,max,60,1100,0.799383
+"NA 0.8, under-filled pupil",1,Z,13.1,1300,0.801688
+"NA 0.8, under-filled pupil",1,X,13.1,1300,0.738324
+"NA 0.8, under-filled pupil",1,max,13.1,1300,0.801688
+"NA 0.8, under-filled pupil",1,Z,30,1300,0.778153
+"NA 0.8, under-filled pupil",1,X,30,1300,0.718206
+"NA 0.8, under-filled pupil",1,max,30,1300,0.778153
+"NA 0.8, under-filled pupil",1,Z,60,1300,0.670972
+"NA 0.8, under-filled pupil",1,X,60,1300,0.634216
+"NA 0.8, under-filled pupil",1,max,60,1300,0.670972
+"NA 0.8, under-filled pupil",1,Z,13.1,1500,0.747655
+"NA 0.8, under-filled pupil",1,X,13.1,1500,0.693643
+"NA 0.8, under-filled pupil",1,max,13.1,1500,0.747655
+"NA 0.8, under-filled pupil",1,Z,30,1500,0.717719
+"NA 0.8, under-filled pupil",1,X,30,1500,0.670015
+"NA 0.8, under-filled pupil",1,max,30,1500,0.717719
+"NA 0.8, under-filled pupil",1,Z,60,1500,0.610641
+"NA 0.8, under-filled pupil",1,X,60,1500,0.584661
+"NA 0.8, under-filled pupil",1,max,60,1500,0.610641
+"NA 0.8, under-filled pupil",1,Z,13.1,1700,0.692614
+"NA 0.8, under-filled pupil",1,X,13.1,1700,0.658789
+"NA 0.8, under-filled pupil",1,max,13.1,1700,0.692614
+"NA 0.8, under-filled pupil",1,Z,30,1700,0.660528
+"NA 0.8, under-filled pupil",1,X,30,1700,0.632868
+"NA 0.8, under-filled pupil",1,max,30,1700,0.660528
+"NA 0.8, under-filled pupil",1,Z,60,1700,0.558568
+"NA 0.8, under-filled pupil",1,X,60,1700,0.547942
+"NA 0.8, under-filled pupil",1,max,60,1700,0.558568
+"NA 0.8, over-filled pupil",1,Z,13.1,500,0.782423
+"NA 0.8, over-filled pupil",1,X,13.1,500,0.775767
+"NA 0.8, over-filled pupil",1,max,13.1,500,0.782423
+"NA 0.8, over-filled pupil",1,Z,30,500,0.828355
+"NA 0.8, over-filled pupil",1,X,30,500,0.809195
+"NA 0.8, over-filled pupil",1,max,30,500,0.828355
+"NA 0.8, over-filled pupil",1,Z,60,500,0.826451
+"NA 0.8, over-filled pupil",1,X,60,500,0.815175
+"NA 0.8, over-filled pupil",1,max,60,500,0.826451
+"NA 0.8, over-filled pupil",1,Z,13.1,700,0.541063
+"NA 0.8, over-filled pupil",1,X,13.1,700,0.655996
+"NA 0.8, over-filled pupil",1,max,13.1,700,0.655996
+"NA 0.8, over-filled pupil",1,Z,30,700,0.539543
+"NA 0.8, over-filled pupil",1,X,30,700,0.667318
+"NA 0.8, over-filled pupil",1,max,30,700,0.667318
+"NA 0.8, over-filled pupil",1,Z,60,700,0.488213
+"NA 0.8, over-filled pupil",1,X,60,700,0.631697
+"NA 0.8, over-filled pupil",1,max,60,700,0.631697
+"NA 0.8, over-filled pupil",1,Z,13.1,900,0.549663
+"NA 0.8, over-filled pupil",1,X,13.1,900,0.551117
+"NA 0.8, over-filled pupil",1,max,13.1,900,0.551117
+"NA 0.8, over-filled pupil",1,Z,30,900,0.539687
+"NA 0.8, over-filled pupil",1,X,30,900,0.547411
+"NA 0.8, over-filled pupil",1,max,30,900,0.547411
+"NA 0.8, over-filled pupil",1,Z,60,900,0.472822
+"NA 0.8, over-filled pupil",1,X,60,900,0.494485
+"NA 0.8, over-filled pupil",1,max,60,900,0.494485
+"NA 0.8, over-filled pupil",1,Z,13.1,1000,0.315457
+"NA 0.8, over-filled pupil",1,X,13.1,1000,0.35492
+"NA 0.8, over-filled pupil",1,max,13.1,1000,0.35492
+"NA 0.8, over-filled pupil",1,Z,30,1000,0.317298
+"NA 0.8, over-filled pupil",1,X,30,1000,0.351959
+"NA 0.8, over-filled pupil",1,max,30,1000,0.351959
+"NA 0.8, over-filled pupil",1,Z,60,1000,0.311706
+"NA 0.8, over-filled pupil",1,X,60,1000,0.34175
+"NA 0.8, over-filled pupil",1,max,60,1000,0.34175
+"NA 0.8, over-filled pupil",1,Z,13.1,1100,0.449911
+"NA 0.8, over-filled pupil",1,X,13.1,1100,0.507731
+"NA 0.8, over-filled pupil",1,max,13.1,1100,0.507731
+"NA 0.8, over-filled pupil",1,Z,30,1100,0.433259
+"NA 0.8, over-filled pupil",1,X,30,1100,0.493917
+"NA 0.8, over-filled pupil",1,max,30,1100,0.493917
+"NA 0.8, over-filled pupil",1,Z,60,1100,0.371842
+"NA 0.8, over-filled pupil",1,X,60,1100,0.432079
+"NA 0.8, over-filled pupil",1,max,60,1100,0.432079
+"NA 0.8, over-filled pupil",1,Z,13.1,1300,0.385427
+"NA 0.8, over-filled pupil",1,X,13.1,1300,0.449583
+"NA 0.8, over-filled pupil",1,max,13.1,1300,0.449583
+"NA 0.8, over-filled pupil",1,Z,30,1300,0.362471
+"NA 0.8, over-filled pupil",1,X,30,1300,0.430699
+"NA 0.8, over-filled pupil",1,max,30,1300,0.430699
+"NA 0.8, over-filled pupil",1,Z,60,1300,0.30201
+"NA 0.8, over-filled pupil",1,X,60,1300,0.368848
+"NA 0.8, over-filled pupil",1,max,60,1300,0.368848
+"NA 0.8, over-filled pupil",1,Z,13.1,1500,0.351091
+"NA 0.8, over-filled pupil",1,X,13.1,1500,0.401959
+"NA 0.8, over-filled pupil",1,max,13.1,1500,0.401959
+"NA 0.8, over-filled pupil",1,Z,30,1500,0.32886
+"NA 0.8, over-filled pupil",1,X,30,1500,0.380594
+"NA 0.8, over-filled pupil",1,max,30,1500,0.380594
+"NA 0.8, over-filled pupil",1,Z,60,1500,0.274162
+"NA 0.8, over-filled pupil",1,X,60,1500,0.322809
+"NA 0.8, over-filled pupil",1,max,60,1500,0.322809
+"NA 0.8, over-filled pupil",1,Z,13.1,1700,0.304438
+"NA 0.8, over-filled pupil",1,X,13.1,1700,0.364275
+"NA 0.8, over-filled pupil",1,max,13.1,1700,0.364275
+"NA 0.8, over-filled pupil",1,Z,30,1700,0.285114
+"NA 0.8, over-filled pupil",1,X,30,1700,0.342931
+"NA 0.8, over-filled pupil",1,max,30,1700,0.342931
+"NA 0.8, over-filled pupil",1,Z,60,1700,0.240561
+"NA 0.8, over-filled pupil",1,X,60,1700,0.290401
+"NA 0.8, over-filled pupil",1,max,60,1700,0.290401
+"NA 0.8, focus offset 0.25 radius",1,Z,13.1,500,0.892128
+"NA 0.8, focus offset 0.25 radius",1,X,13.1,500,0.790073
+"NA 0.8, focus offset 0.25 radius",1,max,13.1,500,0.892128
+"NA 0.8, focus offset 0.25 radius",1,Z,30,500,0.944463
+"NA 0.8, focus offset 0.25 radius",1,X,30,500,0.819723
+"NA 0.8, focus offset 0.25 radius",1,max,30,500,0.944463
+"NA 0.8, focus offset 0.25 radius",1,Z,60,500,0.946279
+"NA 0.8, focus offset 0.25 radius",1,X,60,500,0.824563
+"NA 0.8, focus offset 0.25 radius",1,max,60,500,0.946279
+"NA 0.8, focus offset 0.25 radius",1,Z,13.1,700,0.678104
+"NA 0.8, focus offset 0.25 radius",1,X,13.1,700,0.707348
+"NA 0.8, focus offset 0.25 radius",1,max,13.1,700,0.707348
+"NA 0.8, focus offset 0.25 radius",1,Z,30,700,0.689314
+"NA 0.8, focus offset 0.25 radius",1,X,30,700,0.715026
+"NA 0.8, focus offset 0.25 radius",1,max,30,700,0.715026
+"NA 0.8, focus offset 0.25 radius",1,Z,60,700,0.645864
+"NA 0.8, focus offset 0.25 radius",1,X,60,700,0.681511
+"NA 0.8, focus offset 0.25 radius",1,max,60,700,0.681511
+"NA 0.8, focus offset 0.25 radius",1,Z,13.1,900,0.591268
+"NA 0.8, focus offset 0.25 radius",1,X,13.1,900,0.622486
+"NA 0.8, focus offset 0.25 radius",1,max,13.1,900,0.622486
+"NA 0.8, focus offset 0.25 radius",1,Z,30,900,0.58536
+"NA 0.8, focus offset 0.25 radius",1,X,30,900,0.619255
+"NA 0.8, focus offset 0.25 radius",1,max,30,900,0.619255
+"NA 0.8, focus offset 0.25 radius",1,Z,60,900,0.524281
+"NA 0.8, focus offset 0.25 radius",1,X,60,900,0.568782
+"NA 0.8, focus offset 0.25 radius",1,max,60,900,0.568782
+"NA 0.8, focus offset 0.25 radius",1,Z,13.1,1000,0.431355
+"NA 0.8, focus offset 0.25 radius",1,X,13.1,1000,0.44808
+"NA 0.8, focus offset 0.25 radius",1,max,13.1,1000,0.44808
+"NA 0.8, focus offset 0.25 radius",1,Z,30,1000,0.427056
+"NA 0.8, focus offset 0.25 radius",1,X,30,1000,0.445052
+"NA 0.8, focus offset 0.25 radius",1,max,30,1000,0.445052
+"NA 0.8, focus offset 0.25 radius",1,Z,60,1000,0.399931
+"NA 0.8, focus offset 0.25 radius",1,X,60,1000,0.427974
+"NA 0.8, focus offset 0.25 radius",1,max,60,1000,0.427974
+"NA 0.8, focus offset 0.25 radius",1,Z,13.1,1100,0.522819
+"NA 0.8, focus offset 0.25 radius",1,X,13.1,1100,0.548366
+"NA 0.8, focus offset 0.25 radius",1,max,13.1,1100,0.548366
+"NA 0.8, focus offset 0.25 radius",1,Z,30,1100,0.511873
+"NA 0.8, focus offset 0.25 radius",1,X,30,1100,0.54005
+"NA 0.8, focus offset 0.25 radius",1,max,30,1100,0.54005
+"NA 0.8, focus offset 0.25 radius",1,Z,60,1100,0.45114
+"NA 0.8, focus offset 0.25 radius",1,X,60,1100,0.486984
+"NA 0.8, focus offset 0.25 radius",1,max,60,1100,0.486984
+"NA 0.8, focus offset 0.25 radius",1,Z,13.1,1300,0.479871
+"NA 0.8, focus offset 0.25 radius",1,X,13.1,1300,0.498842
+"NA 0.8, focus offset 0.25 radius",1,max,13.1,1300,0.498842
+"NA 0.8, focus offset 0.25 radius",1,Z,30,1300,0.466027
+"NA 0.8, focus offset 0.25 radius",1,X,30,1300,0.487026
+"NA 0.8, focus offset 0.25 radius",1,max,30,1300,0.487026
+"NA 0.8, focus offset 0.25 radius",1,Z,60,1300,0.406961
+"NA 0.8, focus offset 0.25 radius",1,X,60,1300,0.434042
+"NA 0.8, focus offset 0.25 radius",1,max,60,1300,0.434042
+"NA 0.8, focus offset 0.25 radius",1,Z,13.1,1500,0.445734
+"NA 0.8, focus offset 0.25 radius",1,X,13.1,1500,0.463731
+"NA 0.8, focus offset 0.25 radius",1,max,13.1,1500,0.463731
+"NA 0.8, focus offset 0.25 radius",1,Z,30,1500,0.430608
+"NA 0.8, focus offset 0.25 radius",1,X,30,1500,0.450083
+"NA 0.8, focus offset 0.25 radius",1,max,30,1500,0.450083
+"NA 0.8, focus offset 0.25 radius",1,Z,60,1500,0.374158
+"NA 0.8, focus offset 0.25 radius",1,X,60,1500,0.398462
+"NA 0.8, focus offset 0.25 radius",1,max,60,1500,0.398462
+"NA 0.8, focus offset 0.25 radius",1,Z,13.1,1700,0.416691
+"NA 0.8, focus offset 0.25 radius",1,X,13.1,1700,0.432396
+"NA 0.8, focus offset 0.25 radius",1,max,13.1,1700,0.432396
+"NA 0.8, focus offset 0.25 radius",1,Z,30,1700,0.401781
+"NA 0.8, focus offset 0.25 radius",1,X,30,1700,0.418593
+"NA 0.8, focus offset 0.25 radius",1,max,30,1700,0.418593
+"NA 0.8, focus offset 0.25 radius",1,Z,60,1700,0.349238
+"NA 0.8, focus offset 0.25 radius",1,X,60,1700,0.370098
+"NA 0.8, focus offset 0.25 radius",1,max,60,1700,0.370098
+"NA 0.8, focus offset 0.5 radius",1,Z,13.1,500,0.900367
+"NA 0.8, focus offset 0.5 radius",1,X,13.1,500,0.786553
+"NA 0.8, focus offset 0.5 radius",1,max,13.1,500,0.900367
+"NA 0.8, focus offset 0.5 radius",1,Z,30,500,0.958698
+"NA 0.8, focus offset 0.5 radius",1,X,30,500,0.816027
+"NA 0.8, focus offset 0.5 radius",1,max,30,500,0.958698
+"NA 0.8, focus offset 0.5 radius",1,Z,60,500,0.97781
+"NA 0.8, focus offset 0.5 radius",1,X,60,500,0.82627
+"NA 0.8, focus offset 0.5 radius",1,max,60,500,0.97781
+"NA 0.8, focus offset 0.5 radius",1,Z,13.1,700,0.777325
+"NA 0.8, focus offset 0.5 radius",1,X,13.1,700,0.699974
+"NA 0.8, focus offset 0.5 radius",1,max,13.1,700,0.777325
+"NA 0.8, focus offset 0.5 radius",1,Z,30,700,0.801974
+"NA 0.8, focus offset 0.5 radius",1,X,30,700,0.710443
+"NA 0.8, focus offset 0.5 radius",1,max,30,700,0.801974
+"NA 0.8, focus offset 0.5 radius",1,Z,60,700,0.778345
+"NA 0.8, focus offset 0.5 radius",1,X,60,700,0.697442
+"NA 0.8, focus offset 0.5 radius",1,max,60,700,0.778345
+"NA 0.8, focus offset 0.5 radius",1,Z,13.1,900,0.752272
+"NA 0.8, focus offset 0.5 radius",1,X,13.1,900,0.638604
+"NA 0.8, focus offset 0.5 radius",1,max,13.1,900,0.752272
+"NA 0.8, focus offset 0.5 radius",1,Z,30,900,0.762748
+"NA 0.8, focus offset 0.5 radius",1,X,30,900,0.639941
+"NA 0.8, focus offset 0.5 radius",1,max,30,900,0.762748
+"NA 0.8, focus offset 0.5 radius",1,Z,60,900,0.716835
+"NA 0.8, focus offset 0.5 radius",1,X,60,900,0.612906
+"NA 0.8, focus offset 0.5 radius",1,max,60,900,0.716835
+"NA 0.8, focus offset 0.5 radius",1,Z,13.1,1000,0.532523
+"NA 0.8, focus offset 0.5 radius",1,X,13.1,1000,0.525701
+"NA 0.8, focus offset 0.5 radius",1,max,13.1,1000,0.532523
+"NA 0.8, focus offset 0.5 radius",1,Z,30,1000,0.532731
+"NA 0.8, focus offset 0.5 radius",1,X,30,1000,0.526741
+"NA 0.8, focus offset 0.5 radius",1,max,30,1000,0.532731
+"NA 0.8, focus offset 0.5 radius",1,Z,60,1000,0.501412
+"NA 0.8, focus offset 0.5 radius",1,X,60,1000,0.518664
+"NA 0.8, focus offset 0.5 radius",1,max,60,1000,0.518664
+"NA 0.8, focus offset 0.5 radius",1,Z,13.1,1100,0.600191
+"NA 0.8, focus offset 0.5 radius",1,X,13.1,1100,0.549471
+"NA 0.8, focus offset 0.5 radius",1,max,13.1,1100,0.600191
+"NA 0.8, focus offset 0.5 radius",1,Z,30,1100,0.602857
+"NA 0.8, focus offset 0.5 radius",1,X,30,1100,0.550353
+"NA 0.8, focus offset 0.5 radius",1,max,30,1100,0.602857
+"NA 0.8, focus offset 0.5 radius",1,Z,60,1100,0.560662
+"NA 0.8, focus offset 0.5 radius",1,X,60,1100,0.525785
+"NA 0.8, focus offset 0.5 radius",1,max,60,1100,0.560662
+"NA 0.8, focus offset 0.5 radius",1,Z,13.1,1300,0.511922
+"NA 0.8, focus offset 0.5 radius",1,X,13.1,1300,0.473615
+"NA 0.8, focus offset 0.5 radius",1,max,13.1,1300,0.511922
+"NA 0.8, focus offset 0.5 radius",1,Z,30,1300,0.505925
+"NA 0.8, focus offset 0.5 radius",1,X,30,1300,0.47222
+"NA 0.8, focus offset 0.5 radius",1,max,30,1300,0.505925
+"NA 0.8, focus offset 0.5 radius",1,Z,60,1300,0.459275
+"NA 0.8, focus offset 0.5 radius",1,X,60,1300,0.44956
+"NA 0.8, focus offset 0.5 radius",1,max,60,1300,0.459275
+"NA 0.8, focus offset 0.5 radius",1,Z,13.1,1500,0.501754
+"NA 0.8, focus offset 0.5 radius",1,X,13.1,1500,0.433248
+"NA 0.8, focus offset 0.5 radius",1,max,13.1,1500,0.501754
+"NA 0.8, focus offset 0.5 radius",1,Z,30,1500,0.492908
+"NA 0.8, focus offset 0.5 radius",1,X,30,1500,0.429383
+"NA 0.8, focus offset 0.5 radius",1,max,30,1500,0.492908
+"NA 0.8, focus offset 0.5 radius",1,Z,60,1500,0.442675
+"NA 0.8, focus offset 0.5 radius",1,X,60,1500,0.405619
+"NA 0.8, focus offset 0.5 radius",1,max,60,1500,0.442675
+"NA 0.8, focus offset 0.5 radius",1,Z,13.1,1700,0.467899
+"NA 0.8, focus offset 0.5 radius",1,X,13.1,1700,0.41073
+"NA 0.8, focus offset 0.5 radius",1,max,13.1,1700,0.467899
+"NA 0.8, focus offset 0.5 radius",1,Z,30,1700,0.460734
+"NA 0.8, focus offset 0.5 radius",1,X,30,1700,0.406522
+"NA 0.8, focus offset 0.5 radius",1,max,30,1700,0.460734
+"NA 0.8, focus offset 0.5 radius",1,Z,60,1700,0.416862
+"NA 0.8, focus offset 0.5 radius",1,X,60,1700,0.383334
+"NA 0.8, focus offset 0.5 radius",1,max,60,1700,0.416862
+Unfocused plane wave,0,Z,13.1,500,1.30437
+Unfocused plane wave,0,X,13.1,500,0.871159
+Unfocused plane wave,0,max,13.1,500,1.30437
+Unfocused plane wave,0,Z,30,500,1.35865
+Unfocused plane wave,0,X,30,500,0.887347
+Unfocused plane wave,0,max,30,500,1.35865
+Unfocused plane wave,0,Z,60,500,1.33154
+Unfocused plane wave,0,X,60,500,0.880936
+Unfocused plane wave,0,max,60,500,1.33154
+Unfocused plane wave,0,Z,13.1,700,1.58592
+Unfocused plane wave,0,X,13.1,700,0.904616
+Unfocused plane wave,0,max,13.1,700,1.58592
+Unfocused plane wave,0,Z,30,700,1.62184
+Unfocused plane wave,0,X,30,700,0.899826
+Unfocused plane wave,0,max,30,700,1.62184
+Unfocused plane wave,0,Z,60,700,1.53716
+Unfocused plane wave,0,X,60,700,0.866175
+Unfocused plane wave,0,max,60,700,1.53716
+Unfocused plane wave,0,Z,13.1,900,1.96045
+Unfocused plane wave,0,X,13.1,900,0.964075
+Unfocused plane wave,0,max,13.1,900,1.96045
+Unfocused plane wave,0,Z,30,900,2.01246
+Unfocused plane wave,0,X,30,900,0.949267
+Unfocused plane wave,0,max,30,900,2.01246
+Unfocused plane wave,0,Z,60,900,1.91032
+Unfocused plane wave,0,X,60,900,0.900907
+Unfocused plane wave,0,max,60,900,1.91032
+Unfocused plane wave,0,Z,13.1,1000,1.80857
+Unfocused plane wave,0,X,13.1,1000,0.936666
+Unfocused plane wave,0,max,13.1,1000,1.80857
+Unfocused plane wave,0,Z,30,1000,1.84282
+Unfocused plane wave,0,X,30,1000,0.921226
+Unfocused plane wave,0,max,30,1000,1.84282
+Unfocused plane wave,0,Z,60,1000,1.73018
+Unfocused plane wave,0,X,60,1000,0.889002
+Unfocused plane wave,0,max,60,1000,1.73018
+Unfocused plane wave,0,Z,13.1,1100,1.92328
+Unfocused plane wave,0,X,13.1,1100,1.02417
+Unfocused plane wave,0,max,13.1,1100,1.92328
+Unfocused plane wave,0,Z,30,1100,1.95355
+Unfocused plane wave,0,X,30,1100,1.00578
+Unfocused plane wave,0,max,30,1100,1.95355
+Unfocused plane wave,0,Z,60,1100,1.82434
+Unfocused plane wave,0,X,60,1100,0.954175
+Unfocused plane wave,0,max,60,1100,1.82434
+Unfocused plane wave,0,Z,13.1,1300,1.94588
+Unfocused plane wave,0,X,13.1,1300,1.06081
+Unfocused plane wave,0,max,13.1,1300,1.94588
+Unfocused plane wave,0,Z,30,1300,1.9613
+Unfocused plane wave,0,X,30,1300,1.03905
+Unfocused plane wave,0,max,30,1300,1.9613
+Unfocused plane wave,0,Z,60,1300,1.79571
+Unfocused plane wave,0,X,60,1300,0.98464
+Unfocused plane wave,0,max,60,1300,1.79571
+Unfocused plane wave,0,Z,13.1,1500,2.26575
+Unfocused plane wave,0,X,13.1,1500,1.1042
+Unfocused plane wave,0,max,13.1,1500,2.26575
+Unfocused plane wave,0,Z,30,1500,2.26479
+Unfocused plane wave,0,X,30,1500,1.07106
+Unfocused plane wave,0,max,30,1500,2.26479
+Unfocused plane wave,0,Z,60,1500,2.04524
+Unfocused plane wave,0,X,60,1500,0.99183
+Unfocused plane wave,0,max,60,1500,2.04524
+Unfocused plane wave,0,Z,13.1,1700,2.40348
+Unfocused plane wave,0,X,13.1,1700,1.20439
+Unfocused plane wave,0,max,13.1,1700,2.40348
+Unfocused plane wave,0,Z,30,1700,2.38924
+Unfocused plane wave,0,X,30,1700,1.17332
+Unfocused plane wave,0,max,30,1700,2.38924
+Unfocused plane wave,0,Z,60,1700,2.16091
+Unfocused plane wave,0,X,60,1700,1.09813
+Unfocused plane wave,0,max,60,1700,2.16091

@@ -1,0 +1,12 @@
+row,solvent_volume_fraction,D_m2_s,D_free_volume_25C,ratio_to_free_volume,ratio_to_viscosity_variant,ratio_to_xi_fitted
+measured,0.0505213,1.2e-15,4.83539e-22,2.4817e+06,5186.53,6.58755e+09
+measured,0.0656271,2.9e-15,5.60296e-19,5175.84,48.2808,2.03189e+06
+measured,0.0838466,4e-15,9.28167e-17,43.0957,1.19225,4218.1
+measured,0.0856296,5.4e-15,1.36027e-16,39.6979,1.19155,3501.12
+measured,0.0967624,1.6e-14,1.07198e-15,14.9256,0.696416,749.172
+measured,0.103655,6.6e-14,3.07216e-15,21.4833,1.25612,808.255
+Park law slope (ln D per unit phi),,65.6111,,,,
+"xi, Zielinski-Duda",,0.437861,,,,
+"xi, fitted to chloroform self-diffusion",,0.5559,,,,
+pure chloroform self-diffusivity 25 C,,2.71803e-09,,,,
+hole free volume ratio viscosity/ZD at 18.5 C,,1.26,,,,

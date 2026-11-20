@@ -1,0 +1,3 @@
+clock,median_jacobian_condition,max_jacobian_condition,min_accumulation_distance_far_labels,max_inverse_lipschitz
+common clock,2.52221,74.9834,0.0119773,15.175
+depth-dependent clock,2.76209,40.6544,0.00733359,22.4904

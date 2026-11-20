@@ -1,0 +1,12 @@
+equation,L,rho,variable,value,beta
+"Eq 11, stretching until arrest",2.7,2,Wi,10,0.460851
+"Eq 11, stretching until arrest",2.7,2,Wi,30,0.167631
+"Eq 11, stretching until arrest",2.7,2,Wi,100,0.0518827
+"Eq 11, stretching until arrest",2.7,2,Wi,300,0.0174501
+"Eq 11, stretching until arrest",2.7,2,Wi,1000,0.00525153
+"Eq 11, stretching until arrest",2,2,Wi,100,0.0285673
+"Eq 11, stretching until arrest",4,2,Wi,100,0.113138
+"Eq 12, relaxation before arrest",2.7,2,dt_over_lambda,0.1,0.189975
+"Eq 12, relaxation before arrest",2.7,2,dt_over_lambda,0.2,0.370685
+"Eq 12, relaxation before arrest",2.7,2,dt_over_lambda,0.5,0.861632
+"Eq 12, relaxation before arrest",2.7,2,dt_over_lambda,1,1.53267

@@ -1,0 +1,9 @@
+stretching,t0,w,lam,rms_to_best_skin
+concentrated,0.3,0.05,0.1,0.0208943
+concentrated,0.3,0.05,1,0.0264237
+moderate,1,1,0.1,0.0303494
+moderate,1,1,1,0.0715736
+sustained,5,5,0.1,0.185754
+sustained,5,5,1,0.306173
+very sustained,10,20,0.1,0.571161
+very sustained,10,20,1,0.627231

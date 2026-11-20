@@ -1,0 +1,5 @@
+collector_share,per_bin_min_nm_low,per_bin_min_nm_high,common_skin_min_nm_bins,common_skin_min_nm_fit
+0,31.6024,44.5956,44.5956,41.1101
+0.5,15.2688,21.9019,21.9019,20.099
+0.7,9.04513,13.0507,13.0507,11.9583
+0.8,5.99283,8.67099,8.67099,7.93959
